@@ -1,0 +1,61 @@
+The communication between the IOP and the devices attached to it is
+similar to the program control method of transfer. Communication with the
+memory is similar to the direct memory access method. The way by which the
+CPU and IOP communicate depends on the level of sophistication included in
+the system. In very-large-scale computers, each processor is independent of
+all others and any one processor can initiate an operation. In most computer
+systems, the CPU is the master while the IOP is a slave processor. The CPU
+is assigned the task of initiating all operations, but I/O instructions are executed
+in the IOP. CPU instructions provide operations to start an I/O transfer and also
+to test I/O status conditions needed for making decisions on various I/O
+activities. The IOP, in turn, typically asks for CPU attention by means of an
+interrupt. It also responds to CPU requests by placing a status word in a
+prescribed location in memory to be examined later by a CPU program. When
+an I/O operation is desired, the CPU informs the IOP where to find the I/O
+program and then leaves the transfer details to the IOP.
+
+Instructions that are read from memory by an IOP are sometimes called
+commands, to distinguish them from instructions that are read by the CPU.
+Otherwise, an instruction and a command have similar functions. Commands
+are prepared by experienced programmers and are stored in memory. The
+command words constitute the program for the IOP. The CPU informs the IOP
+where to find the commands in memory when it is time to execute the I/O
+program.
+
+
+
+The communication between CPU and IOP may take different forms, 
+depending on the particular computer considered. In most cases the memory unit acts
+as a message center where each processor leaves information for the other. To
+appreciate the operation of a typical IOP, we will illustrate by a specific example
+the method by which the CPU and IOP communicate. This is a simplified
+example that omits many operating details in order to provide an overview of
+basic concepts.
+The sequence of operations may be carried out as shown in the flowchart
+of Fig. 11-20. The CPU sends an instruction to test the IOP path. The IOP
+responds by inserting a status word in memory for the CPU to check. The bits
+of the status word indicate the condition of the IOP and I/O device, such as
+IOP overload condition, device busy with another transfer, or device ready for
+I/O transfer. The CPU refers to the status word in memory to decide what to
+do next. If all is in order, the CPU sends the instruction to start I/O transfer.
+The memory address received with this instruction tells the IOP where to find
+its program.
+The CPU can now continue with another program while the IOP is busy
+with the I/O program. Both programs refer to memory by means of DMA
+transfer. When the IOP terminates the execution of its program, it sends an
+interrupt request to the CPU. The CPU responds to the interrupt by issuing
+an instruction to read the status from the IOP. The IOP responds by placing
+the contents of its status report into a specified memory location. The status
+word indicates whether the transfer has been completed or if any errors
+occurred during the transfer. From inspection of the bits in the status word,
+the CPU determines if the I/O operation was completed satisfactorily without
+errors.
+The IOP takes care of all data transfers between several I/O units and the
+memory while the CPU is processing another program. The IOP and CPU are
+competing for the use of memory, so the number of devices that can be in
+operation is limited by the access time of the memory. It is not possible to
+saturate the memory by I/O devices in most systems, as the speed of most
+devices is much slower than the CPU. However, some very fast units, such as
+magnetic disks, can use an appreciable number of the available memory cycles.
+In that case, the speed of the CPU may deteriorate because it will often have
+to wait for the IOP to conduct memory transfers.

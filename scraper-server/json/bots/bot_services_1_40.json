@@ -1,0 +1,3128 @@
+{
+  "data": [
+    [
+      {
+        "name": "«ImageBot» telegram bot",
+        "short_name": "@imagebot",
+        "description": "This simple bot can fetch images and GIFs upon request.",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/03/image-bot.png",
+        "subscribers": "287"
+      },
+      {
+        "name": "«Alert Bot» telegram bot",
+        "short_name": "@alertbot",
+        "description": "Use this bot to create simple alerts.",
+        "avatar": "https://files-warehouse.com/files/of_bots/3c/3c3a9203be2653b8f06c9e44c2634ce9.jpg",
+        "subscribers": "82"
+      },
+      {
+        "name": "«TGhost — file sharing» telegram bot",
+        "short_name": "@TGhost_bot",
+        "description": "Share files by sending them to this bot.\nTerms: https://tghost.me/tos",
+        "avatar": "https://files-warehouse.com/files/of_bots/47/47d737d1f438d3db8c06dc1b6a3d50e4.jpg",
+        "subscribers": "48"
+      },
+      {
+        "name": "«ETH banker» telegram bot",
+        "short_name": "@eth_change_bot",
+        "description": "This is a fast and free wallet along with the decentralized ETH (Ethereum) exchange service.",
+        "avatar": "https://files-warehouse.com/files/of_bots/1b/1b0fd1d00933792a8c9cb72bf404ed56.jpg",
+        "subscribers": "159"
+      },
+      {
+        "name": "«Proxy Grabber» telegram bot",
+        "short_name": "@gproxybot",
+        "description": "Get Free HTTP(S) Proxy List with Daily Update",
+        "avatar": "https://files-warehouse.com/files/of_bots/8e/8e6e6b3456cd810d5db2b3ba629efdee.jpg",
+        "subscribers": "100"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@youtubedownbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "74"
+      },
+      {
+        "name": "«Countdown Bot» telegram bot",
+        "short_name": "@countdownmebot",
+        "description": "Create posts with a working countdown.\n&#x1F464; Contact: @wjclub\n&#x1F4E2; News: @WJClubNews\n(PP: danielbruce.se)",
+        "avatar": "https://files-warehouse.com/files/of_bots/18/189dac2d4361aaa7d953f29c2ea40ebf.jpg",
+        "subscribers": "73"
+      },
+      {
+        "name": "«Email2Telegram» telegram bot",
+        "short_name": "@email2telegrambot",
+        "description": "This is an email to telegram gateway bot. You get a special email address, which forwards all messages to telegram chat.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d5/d5df525e76089e991986e3ff87f7e18b.jpg",
+        "subscribers": "45"
+      },
+      {
+        "name": "«Skyscanner.Ru» telegram bot",
+        "short_name": "@skyscannerbot",
+        "description": "&#x41F;&#x43E;&#x438;&#x441;&#x43A;&#x43E;&#x432;&#x438;&#x43A; &#x43D;&#x435;&#x434;&#x43E;&#x440;&#x43E;&#x433;&#x438;&#x445; &#x43F;&#x443;&#x442;&#x435;&#x448;&#x435;&#x441;&#x442;&#x432;&#x438;&#x439;! &#x2022; &#x41D;&#x430;&#x448; &#x441;&#x430;&#x439;&#x442;: https://skyscanner.ru",
+        "avatar": "https://files-warehouse.com/files/of_bots/91/91abb22f6f0463b24cb3479d9b607b02.jpg",
+        "subscribers": "61"
+      },
+      {
+        "name": "«PayPal.me Link Generator (unofficial)» telegram bot",
+        "short_name": "@paypal_me_bot",
+        "description": "Tell me your PayPal.me username and I&apos;ll generate links for you using the inline bot function @paypal_me_bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/49/496a4c5d2764f9fbcf8942f44542671e.jpg",
+        "subscribers": "49"
+      },
+      {
+        "name": "«Dogecoin Stats by CoV» telegram bot",
+        "short_name": "@dogecoin_doge_bot",
+        "description": "MarketCap, Blockchain, P2P Network... even Screenshots and Faucets! by: http://coinofview.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/9f/9f284a5cfa2d69348aae1f692596b766.jpg",
+        "subscribers": "69"
+      }
+    ],
+    [
+      {
+        "name": "«goo.gl Bot» telegram bot",
+        "short_name": "@googlshortbot",
+        "description": "This bot can generate goo.gl links",
+        "avatar": "https://files-warehouse.com/files/of_bots/c3/c36e9469d0992c01a41685b243b2e75c.jpg",
+        "subscribers": "65"
+      },
+      {
+        "name": "«Amazon UK – Lightning Deals» telegram bot",
+        "short_name": "@amazondealsuk_bot",
+        "description": "You can contact @amazondealsuk_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/36/363cfb08d9cc0d5d0c62477b771d19c2.jpg",
+        "subscribers": "44"
+      },
+      {
+        "name": "«فیک نامبر (شماره مجازی)» telegram bot",
+        "short_name": "@fakenumber_robot",
+        "description": "&#x627;&#x648;&#x644;&#x6CC;&#x646; &#x631;&#x628;&#x627;&#x62A; &#x633;&#x627;&#x62E;&#x62A; &#x634;&#x645;&#x627;&#x631;&#x647; &#x645;&#x62C;&#x627;&#x632;&#x6CC; &#x6A9;&#x634;&#x648;&#x631;&#x647;&#x627; &#x628;&#x647; &#x635;&#x648;&#x631;&#x62A; &#x631;&#x627;&#x6CC;&#x6AF;&#x627;&#x646; &#x648; &#x627;&#x62E;&#x62A;&#x635;&#x627;&#x635;&#x6CC; !",
+        "avatar": "https://files-warehouse.com/files/of_bots/b7/b78a97436d65743e0c5fd1e0c5e4750f.jpg",
+        "subscribers": "42"
+      },
+      {
+        "name": "«Upwork Jobs Feed Bot» telegram bot",
+        "short_name": "@upworkjobfeedbot",
+        "description": "Upwork Jobs Feed subscriber, every 5 minute checks feed and sends new jobs. Creator v03adk@gmail.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/2a/2ac81092e5541866019700cf4017f05c.png",
+        "subscribers": "40"
+      },
+      {
+        "name": "«Jira» telegram bot",
+        "short_name": "@notify_jira_bot",
+        "description": "This bot will help you to keep track on whats happening on Jira. https://github.com/FluffyFairyGames/telegram-jira-bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/d5/d59a3543c2a6da9ced6d7c46b227bcfe.jpg",
+        "subscribers": "45"
+      },
+      {
+        "name": "«Giveaway Database» telegram bot",
+        "short_name": "@giveawaydbbot",
+        "description": "You can contact @giveawaydbbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/48/48983244b427feaa94132c571e25501a.png",
+        "subscribers": "35"
+      },
+      {
+        "name": "«Image Hosting» telegram bot",
+        "short_name": "@imageuploadbot",
+        "description": "Free image hosting by @TGLab",
+        "avatar": "https://files-warehouse.com/files/of_bots/f4/f466023b53e7a0befd6dc8dbbd698ab0.jpg",
+        "subscribers": "36"
+      },
+      {
+        "name": "«QR-Code Reader» telegram bot",
+        "short_name": "@qrcrbot",
+        "description": "You can contact @qrcrbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/02/027d34cab6b77eeb43652d4781945659.jpg",
+        "subscribers": "37"
+      },
+      {
+        "name": "«airbnb search bot» telegram bot",
+        "short_name": "@airbnbsearchbot",
+        "description": "Search Airbnb top rooms by location!",
+        "avatar": "https://files-warehouse.com/files/of_bots/0b/0b9d908a434d7e8f13dbf3fe1c41f7d1.jpg",
+        "subscribers": "21"
+      },
+      {
+        "name": "«Add To Wunderlist» telegram bot",
+        "short_name": "@addtowunderlistbot",
+        "description": "You can contact @addtowunderlistbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/7c/7c909edbebbec519fd245200b91b38a1.jpg",
+        "subscribers": "30"
+      },
+      {
+        "name": "«YouTube Mp3 Downloader» telegram bot",
+        "short_name": "@youtubeinmp3bot",
+        "description": "I convert YouTube URLs to MP3 Files",
+        "avatar": "https://files-warehouse.com/files/of_bots/d6/d6dcc395a60b7897dababe043fe679be.jpg",
+        "subscribers": "26"
+      }
+    ],
+    [
+      {
+        "name": "«Google Calendar Bot» telegram bot",
+        "short_name": "@googlecalendarbot",
+        "description": "I&apos;m an interface to a google calendar. /start to get started.",
+        "avatar": "https://files-warehouse.com/files/of_bots/18/18aaaef70abc9322284200a4bf0dd547.jpg",
+        "subscribers": "31"
+      },
+      {
+        "name": "«Ingress Passcodes» telegram bot",
+        "short_name": "@ingresspasscodesbot",
+        "description": "You can contact @ingresspasscodesbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d1/d1c18d7c7ee2715e85d6e76633976bda.jpg",
+        "subscribers": "23"
+      },
+      {
+        "name": "«SMS Bot» telegram bot",
+        "short_name": "@smswaybot",
+        "description": "You can contact @smswaybot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f6/f67e64829a3ec39457ea7bbd641e0f1c.jpg",
+        "subscribers": "26"
+      },
+      {
+        "name": "«IP Who IS» telegram bot",
+        "short_name": "@ipwhoisbot",
+        "description": "Bot for IP WhoIs by @bettocr",
+        "avatar": "https://files-warehouse.com/files/of_bots/a8/a8d06882e980d6e2625f270a378be072.jpg",
+        "subscribers": "24"
+      },
+      {
+        "name": "«Time Tracker» telegram bot",
+        "short_name": "@ttrackbot",
+        "description": "You can contact @ttrackbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f0/f0a44fbb2436b7b5f66669fa4112bb01.jpg",
+        "subscribers": "25"
+      },
+      {
+        "name": "«ProxyMe Bot» telegram bot",
+        "short_name": "@proxymebot",
+        "description": "Convert any URL into a secure, proxied one using free proxies.\n&#x1F464; Contact: @wjclub\n&#x1F4E2; News: @WJClubNews",
+        "avatar": "https://files-warehouse.com/files/of_bots/8b/8bd99c4a37094bdb75a2a1eb24bc4780.jpg",
+        "subscribers": "20"
+      },
+      {
+        "name": "«Get Sticker Id» telegram bot",
+        "short_name": "@getstickeridbot",
+        "description": "You can contact @getstickeridbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/7f/7f0d02313a8f27380ec0fcd09ab970c6.jpg",
+        "subscribers": "23"
+      },
+      {
+        "name": "«ZeroNet Proxy» telegram bot",
+        "short_name": "@zeronet2web_bot",
+        "description": "Use me to convert a classic ZeroNet address in one accessible from anywhere.\nDeveloped by @pinoh",
+        "avatar": "https://files-warehouse.com/files/of_bots/f1/f157031a365594d991573c04e0651e1f.jpg",
+        "subscribers": "19"
+      },
+      {
+        "name": "«MP3 Tools» telegram bot",
+        "short_name": "@mp3toolsbot",
+        "description": "convert any mp3 into voice message, add/edit mp3 tags, cut mp3 based on start and end points in seconds, add album art.",
+        "avatar": "https://files-warehouse.com/files/of_bots/19/193150c41b147c564a4f53046565ba85.jpg",
+        "subscribers": "29"
+      },
+      {
+        "name": "«ToDo Bot» telegram bot",
+        "short_name": "@todobbot",
+        "description": "Create collaborative todo lists in Telegram group chats!",
+        "avatar": "https://files-warehouse.com/files/of_bots/18/182b52139cf337a24133253163da3688.jpg",
+        "subscribers": "19"
+      },
+      {
+        "name": "«URL Uploader» telegram bot",
+        "short_name": "@urluploadbot",
+        "description": "@urluploadbot is now @uploadbot The #1,smartest and fastest uploader bot in Telegram since 2015. subscribe to @robots for our all bot updates.",
+        "avatar": "https://files-warehouse.com/files/of_bots/0f/0fbb1bf1253638bb009e60d8f0f0b3ef.jpg",
+        "subscribers": "23"
+      }
+    ],
+    [
+      {
+        "name": "«Anonymous Forwarder» telegram bot",
+        "short_name": "@anonymousforwarderbot",
+        "description": "It forwards you any message!",
+        "avatar": "https://files-warehouse.com/files/of_bots/05/0571e03fcbd52f127a4f8feb7da284b0.jpg",
+        "subscribers": "21"
+      },
+      {
+        "name": "«OVPN Finder» telegram bot",
+        "short_name": "@ovpnfinderbot",
+        "description": "Ovpn Finder Bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/2a/2a25ec6a9b7fe718a727f80606576c24.jpg",
+        "subscribers": "14"
+      },
+      {
+        "name": "«Interactive Timer» telegram bot",
+        "short_name": "@itimer_bot",
+        "description": "You can contact @itimer_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2b/2b52c5e928f19c9417709725c23e9473.jpg",
+        "subscribers": "21"
+      },
+      {
+        "name": "«SHORT URL GOO.GL» telegram bot",
+        "short_name": "@shorturlbot",
+        "description": "This Robot will help you to shorten URL, based on Google URL Shortener goo.gl, bit.ly and AdF.ly",
+        "avatar": "https://files-warehouse.com/files/of_bots/66/66040fb8bfadaafa7882fe8beea285a9.jpg",
+        "subscribers": "18"
+      },
+      {
+        "name": "«Gif Provider Bot» telegram bot",
+        "short_name": "@gifgiverbot",
+        "description": "You can contact @gifgiverbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/27/27a3b230092b134367a6151c97070103.png",
+        "subscribers": "15"
+      },
+      {
+        "name": "«Text to speech» telegram bot",
+        "short_name": "@ttsbot",
+        "description": "You can contact @ttsbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/70/701d668f2fc80b67723048354fa9ab84.jpg",
+        "subscribers": "19"
+      },
+      {
+        "name": "«Jailbreak Bot» telegram bot",
+        "short_name": "@iosjailbreakbot",
+        "description": "A bot that can tell you latest IOS news, hacks, Tweaks for both jailbroken and non-Jailbroken!",
+        "avatar": "https://files-warehouse.com/files/of_bots/cf/cf898ae78144bc7921308bdd7d331433.jpg",
+        "subscribers": "21"
+      },
+      {
+        "name": "«Best Wallpapers» telegram bot",
+        "short_name": "@wallpaperrobot",
+        "description": "Get the best daily wallpapers for your phone/tablet/pc right on your Telegram!",
+        "avatar": "https://files-warehouse.com/files/of_bots/d9/d93f523d50abb31f1097b33642e63b3c.jpg",
+        "subscribers": "14"
+      },
+      {
+        "name": "«telefeedbot – web/rss reader» telegram bot",
+        "short_name": "@telefeedbot",
+        "description": "Read rss feeds and social networks right in telegram.\nMy other bot: @BlogFatherBot\nChannels: @memefeed (ru), @crazydoge",
+        "avatar": "https://files-warehouse.com/files/of_bots/72/72436af52314610d806fd69f7a1b4f7f.jpg",
+        "subscribers": "20"
+      },
+      {
+        "name": "«Name Generator» telegram bot",
+        "short_name": "@namegeneratorbot",
+        "description": "@NameGeneratorBot can generate random names you can use for your new project, container, server or even your pet fish.",
+        "avatar": "https://files-warehouse.com/files/of_bots/7f/7f1d0b0a72a35fc47dbd013f7c7d9f27.png",
+        "subscribers": "21"
+      },
+      {
+        "name": "«Zalgo Text Generator Bot» telegram bot",
+        "short_name": "@eeemobot",
+        "description": "Mimics the behaviour of eeemo.net\nInline usage: @eeemobot [Input]\nMade by @BotDevChannel",
+        "avatar": "https://files-warehouse.com/files/of_bots/19/192a621dfc231d914d75d73cd199a237.jpg",
+        "subscribers": "17"
+      }
+    ],
+    [
+      {
+        "name": "«userinfobot» telegram bot",
+        "short_name": "@userinfobot",
+        "description": "This bot displays user info when you forward a message to it. https://github.com/nadam/userinfobot",
+        "avatar": "https://files-warehouse.com/files/of_bots/d0/d07c157669298e7898956dfc56d67df6.jpg",
+        "subscribers": "28"
+      },
+      {
+        "name": "«Counter Bot» telegram bot",
+        "short_name": "@countrbot",
+        "description": "You can contact @countrbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f6/f6cbff78318d462a0bbb4a6ec1df93ac.jpg",
+        "subscribers": "16"
+      },
+      {
+        "name": "«Unlock phone» telegram bot",
+        "short_name": "@unlockphones_bot",
+        "description": "You can contact @unlockphones_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/cc/cca0abffa60c9f80745a3f34e15d85fe.jpg",
+        "subscribers": "13"
+      },
+      {
+        "name": "«NoFap Bot» telegram bot",
+        "short_name": "@nofap_bot",
+        "description": "You can contact @nofap_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/c9/c91c17e0991544187f82bd6bfd2a19b7.png",
+        "subscribers": "16"
+      },
+      {
+        "name": "«Multi Downloader» telegram bot",
+        "short_name": "@multidlbot",
+        "description": "Download media (files, instagram, youtube &amp;...)\nSearch media\n&amp; etc",
+        "avatar": "https://files-warehouse.com/files/of_bots/12/12bde055548c5bb1e2a991647287c600.jpg",
+        "subscribers": "13"
+      },
+      {
+        "name": "«Get Your Telegram User ID» telegram bot",
+        "short_name": "@mytelegramid_bot",
+        "description": "You can contact @mytelegramid_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/c8/c86f61fa3cbc9ef4122a8ddc2cba4cf8.png",
+        "subscribers": "15"
+      },
+      {
+        "name": "«Create QR Code◼️» telegram bot",
+        "short_name": "@qrcobot",
+        "description": "Create Qr Code &#x25FC;&#xFE0F;\nFree Qr Code and send For Friend By inline &#x1F60A;\nCreated By :\n@mench",
+        "avatar": "https://files-warehouse.com/files/of_bots/50/505230cce39b4af164a67ca03751672b.jpg",
+        "subscribers": "16"
+      },
+      {
+        "name": "«GearBest Bot» telegram bot",
+        "short_name": "@gearbestbot",
+        "description": "You can contact @gearbestbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/de/defcd7193a57b02e41e0298af4638d06.jpg",
+        "subscribers": "25"
+      },
+      {
+        "name": "«InstaSave» telegram bot",
+        "short_name": "@instasave_bot",
+        "description": "This bot helps you to download images/videos from Instagram and Youtube.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f5/f58aea2b0c93704bb4fcf1a3fd3a6989.jpg",
+        "subscribers": "14"
+      },
+      {
+        "name": "«Roll Robot» telegram bot",
+        "short_name": "@rollrobot",
+        "description": "Roll Robot is a telegram bot used for common &quot;roll the dice&quot; purposes which is working on group chats.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f1/f1808729b9754d367f51733ee2d479c0.jpg",
+        "subscribers": "16"
+      },
+      {
+        "name": "«Trello» telegram bot",
+        "short_name": "@trello_bot",
+        "description": "Receive card events in any chat, perform actions in a few taps, create new cards &#x2013; just type @trello_bot Card title",
+        "avatar": "https://files-warehouse.com/files/of_bots/4e/4e9f26b144d59cecb758260b659c434c.jpg",
+        "subscribers": "13"
+      }
+    ],
+    [
+      {
+        "name": "«Send to Kindle» telegram bot",
+        "short_name": "@send2kindlebot",
+        "description": "Send to Kindle Bot\nBy: @GabrielRF\nhttp://grf.xyz/telegram\nhttp://patreon.com/GabrielRF",
+        "avatar": "https://files-warehouse.com/files/of_bots/9e/9e551ca9ab95cfa58cc3fd3b0165126a.jpg",
+        "subscribers": "14"
+      },
+      {
+        "name": "«Inline buttons easy» telegram bot",
+        "short_name": "@easyibbot",
+        "description": "You can contact @easyibbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/58/58a8761e16de0b93bf28cab6758faf6a.jpg",
+        "subscribers": "14"
+      },
+      {
+        "name": "«feedsRSSBot» telegram bot",
+        "short_name": "@feedsrssbot",
+        "description": "You can contact @feedsrssbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a9/a9e406dd9beeb63a856f490337d142eb.png",
+        "subscribers": "7"
+      },
+      {
+        "name": "«MarkdownBot» telegram bot",
+        "short_name": "@mdrobot",
+        "description": "Format markdown text with ease&#x1F603;\nOver 30000+ active users&#x1F44C;",
+        "avatar": "https://files-warehouse.com/files/of_bots/11/11c6ae2a9b994e764974bcdca00e380c.jpg",
+        "subscribers": "15"
+      },
+      {
+        "name": "«Fake Mail» telegram bot",
+        "short_name": "@fakemailbot",
+        "description": "i will forward all the emails to you as soon as it arrives you can also reply to any email you receive.\nJoin @robots",
+        "avatar": "https://files-warehouse.com/files/of_bots/e2/e2d944b3b43118012a685ad8609885e9.jpg",
+        "subscribers": "18"
+      },
+      {
+        "name": "«Trader Bot» telegram bot",
+        "short_name": "@botexbot",
+        "description": "Automated API trading on your account on any exchanges.",
+        "avatar": "https://files-warehouse.com/files/of_bots/b5/b5a78bcb95a7efcf1e729d16cf935fd9.jpg",
+        "subscribers": "15"
+      },
+      {
+        "name": "«Website Monitor Up time» telegram bot",
+        "short_name": "@websiteuptimebot",
+        "description": "website monitor by www.brainbots.co",
+        "avatar": "https://files-warehouse.com/files/of_bots/72/723e3e01d1fbc89894809bcbddf0df2f.jpg",
+        "subscribers": "13"
+      },
+      {
+        "name": "«START Google Search» telegram bot",
+        "short_name": "@startsearchbot",
+        "description": "You can contact @startsearchbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/70/709963e807ec90f8d4eb6a8369aa9702.jpg",
+        "subscribers": "12"
+      },
+      {
+        "name": "«Sticker Editor 🖌» telegram bot",
+        "short_name": "@stickereditorbot",
+        "description": "Do You Have Problems Editing Your Stickers? &#x1F61E;\nYou Can Use This Unique Bot To Edit Your Stickers And Style Them! &#x1F62E;",
+        "avatar": "https://files-warehouse.com/files/of_bots/f8/f8099913de34e5de504b149aaecda608.jpg",
+        "subscribers": "15"
+      },
+      {
+        "name": "«GetStats – Google Analytics в telegram» telegram bot",
+        "short_name": "@getstatsbot",
+        "description": "You can contact @getstatsbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/8f/8f838443e40eea6300fd23c8581e7d6e.png",
+        "subscribers": "14"
+      },
+      {
+        "name": "«Cricbuzz – Live Cricket» telegram bot",
+        "short_name": "@cricbuzz_bot",
+        "description": "The one and only Live Cricket Score bot with schedule,points table,recent results,etc.\nJoin @robots",
+        "avatar": "https://files-warehouse.com/files/of_bots/a6/a623dd42fd8413f6c24085c46a6ff2b1.jpg",
+        "subscribers": "13"
+      }
+    ],
+    [
+      {
+        "name": "«Speech to Text» telegram bot",
+        "short_name": "@s2tbot",
+        "description": "Convert your voice messages into text.\ncall /language to choose your language.",
+        "avatar": "https://files-warehouse.com/files/of_bots/93/93513e00e0764f4e56796e8c407fd9f0.jpg",
+        "subscribers": "12"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@youtubetomp3bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "11"
+      },
+      {
+        "name": "«Ethereum Stats by CoV» telegram bot",
+        "short_name": "@ethereum_eth_bot",
+        "description": "MarketCap, Blockchain, P2P Network... even Screenshots and Faucets! by: http://coinofview.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/d4/d4da07f73196a9fe823428daa515eb7d.jpg",
+        "subscribers": "18"
+      },
+      {
+        "name": "«GroupAgree Bot» telegram bot",
+        "short_name": "@groupagreebot",
+        "description": "&#x1F4CA; The best poll bot in town\n&#x1F464; Built by: @wjclub\n&#x1F4EC; Channel: @wjclubnews",
+        "avatar": "https://files-warehouse.com/files/of_bots/94/940d3eaba6cc0ef46812b948d7e3f8ba.jpg",
+        "subscribers": "12"
+      },
+      {
+        "name": "«Cyber Security» telegram bot",
+        "short_name": "@internetsecuritybot",
+        "description": "You can contact @internetsecuritybot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e4/e4e5c5866fc5109ef994242baa478d09.jpg",
+        "subscribers": "12"
+      },
+      {
+        "name": "«aliexpress» telegram bot",
+        "short_name": "@ali_express_bot",
+        "description": "You can contact @ali_express_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/bc/bcd8436de8893cfa4b222e9b1dd4dfc4.png",
+        "subscribers": "17"
+      },
+      {
+        "name": "«Amazon Search» telegram bot",
+        "short_name": "@amazontopdealsbot",
+        "description": "&#x1F50E; Advanced Amazon Search",
+        "avatar": "https://files-warehouse.com/files/of_bots/e4/e4b3fbdef96e4cdd0aeaab04d6ffa188.jpg",
+        "subscribers": "10"
+      },
+      {
+        "name": "«Popcorn Time Bot» telegram bot",
+        "short_name": "@popcorntime_bot",
+        "description": "Get notified when the latest episode of your favourite show goes live on Popcorn Time.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2d/2d1c9f5a404e23eea67c7ae86deb8825.jpg",
+        "subscribers": "11"
+      },
+      {
+        "name": "«Coin Rank Bot» telegram bot",
+        "short_name": "@coinrankbot",
+        "description": "Now this bot in beta version ,so first call of prices will take a few seconds.",
+        "avatar": "https://files-warehouse.com/files/of_bots/6b/6b73e1f2f00ce72c16f1b5cf2363928c.jpg",
+        "subscribers": "12"
+      },
+      {
+        "name": "«DiscordBot» telegram bot",
+        "short_name": "@discordquerybot",
+        "description": "You can contact @discordquerybot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/3d/3de74a2fdc67947198fed0ed2919046d.jpg",
+        "subscribers": "12"
+      },
+      {
+        "name": "«Google Search Bot» telegram bot",
+        "short_name": "@gooflebot",
+        "description": "You can contact @gooflebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/23/23b63622569c0a0f25e4b8476a640c4e.jpg",
+        "subscribers": "11"
+      }
+    ],
+    [
+      {
+        "name": "«Currency Converter» telegram bot",
+        "short_name": "@rateconverterbot",
+        "description": "Have something to convert? I&apos;m here and I&apos;m fast.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f2/f21beb2f42e8159b03a106f7cd9ecd31.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«MP3bot» telegram bot",
+        "short_name": "@getmp3bot",
+        "description": "You can contact @getmp3bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/9f/9f89e466ec956120680feff9d76005d5.jpg",
+        "subscribers": "11"
+      },
+      {
+        "name": "«Channels Collector» telegram bot",
+        "short_name": "@channelsposterbot",
+        "description": "Official bot for @channelsposter. Helps channel owners to promote their channels.",
+        "avatar": "https://files-warehouse.com/files/of_bots/7e/7ec448689a7bc9a29c9ed2ddab7921b8.jpg",
+        "subscribers": "10"
+      },
+      {
+        "name": "«FTP-Client» telegram bot",
+        "short_name": "@ftpclient_bot",
+        "description": "A fully working ftp client as chatbot.",
+        "avatar": "https://files-warehouse.com/files/of_bots/9f/9fa9fa13beb787c4ed01aa319bdb06d8.jpg",
+        "subscribers": "10"
+      },
+      {
+        "name": "«Ebay Robot» telegram bot",
+        "short_name": "@ebayrobot",
+        "description": "Ebay inline search robot allows you to search for product auctions on all international Ebay sites.&#xA0;",
+        "avatar": "https://files-warehouse.com/files/of_bots/aa/aac4aa677fc34e7d68eb2a2e720a5620.jpg",
+        "subscribers": "10"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@seoclerksbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "8"
+      },
+      {
+        "name": "«Litecoin Stats by CoV» telegram bot",
+        "short_name": "@litecoin_bot",
+        "description": "MarketCap, Blockchain, P2P Network... even Screenshots and Faucets! by: http://coinofview.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/2f/2f5235159b246b4169c0cc708341aa09.jpg",
+        "subscribers": "15"
+      },
+      {
+        "name": "«GSM» telegram bot",
+        "short_name": "@gsmrobot",
+        "description": "You can contact @gsmrobot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f0/f098c82965a1a3a6323731a63dc7a0ec.jpg",
+        "subscribers": "8"
+      },
+      {
+        "name": "«Short Link Bot» telegram bot",
+        "short_name": "@lnkbot",
+        "description": "Link shortener Telegram bot based on clck.ru",
+        "avatar": "https://files-warehouse.com/files/of_bots/70/702c852bafe34b75e70838b788dbf59c.jpg",
+        "subscribers": "10"
+      },
+      {
+        "name": "«FapBot» telegram bot",
+        "short_name": "@fappingbot",
+        "description": "This bot can either be used to play a game about fapping or used as a personal fap counter.",
+        "avatar": "https://files-warehouse.com/files/of_bots/22/22c956bd7bf4ee9d89cc7eb52994c4be.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«VideoYoutube» telegram bot",
+        "short_name": "@videoyoutubedownload_bot",
+        "description": "Send to me link on YouTube Video. @Version 1.0.0",
+        "avatar": "https://files-warehouse.com/files/of_bots/bb/bb2ebe895cc87c24efda4a8aadd4c5da.jpg",
+        "subscribers": "8"
+      }
+    ],
+    [
+      {
+        "name": "«» telegram bot",
+        "short_name": "@sshclientbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "10"
+      },
+      {
+        "name": "«Amazon Trader» telegram bot",
+        "short_name": "@amazontraderbot",
+        "description": "Devoloper: Valerio Mellini. Read Me: http://www.tecnologiasumisura.net/2016/06/amazon-trader-to-buy-at-best-price.html",
+        "avatar": "https://files-warehouse.com/files/of_bots/2c/2c229c70c0f037059430b62dad3e5445.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«HQSahamIDX» telegram bot",
+        "short_name": "@hqsahamidx_bot",
+        "description": "You can contact @hqsahamidx_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/8c/8c7a8036ae10a33d60b607a158329dfd.jpg",
+        "subscribers": "11"
+      },
+      {
+        "name": "«Bus Time Bot (SG)» telegram bot",
+        "short_name": "@bus_time_bot",
+        "description": "I give timings for Go-Ahead, NTU, NUS, SBS Transit, SMRT and Tower Transit buses just by sending me your location.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f8/f834f2cf73ca91fcbe08c8f98cee8fce.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Gupshup Proxy bot» telegram bot",
+        "short_name": "@gsdemo1bot",
+        "description": "You can contact @gsdemo1bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/9a/9aed3cc71bacd764775ae44c31b80c89.png",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Group Butler» telegram bot",
+        "short_name": "@groupbutler_bot",
+        "description": "This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more!",
+        "avatar": "https://files-warehouse.com/files/of_bots/5d/5d22087f08ed602b19bd019fc1c7dea8.jpg",
+        "subscribers": "12"
+      },
+      {
+        "name": "«Ping» telegram bot",
+        "short_name": "@pongrobot",
+        "description": "You can use me to ping any host also using its IP address!",
+        "avatar": "https://files-warehouse.com/files/of_bots/24/246065aae5a0a1c4182c9f511d857f9d.jpg",
+        "subscribers": "8"
+      },
+      {
+        "name": "«Wolfram Alpha» telegram bot",
+        "short_name": "@wolframbot",
+        "description": "Wolfram Alpha bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/e7/e7e4c57c3aa10eb9ae041f0264e25e07.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«QR Code Bot» telegram bot",
+        "short_name": "@qrcoderobot",
+        "description": "Convert any QR Code, I will Get it decoded..&#x1F44D;",
+        "avatar": "https://files-warehouse.com/files/of_bots/be/be2de6f60e340c9250237b296cdee72c.jpg",
+        "subscribers": "10"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@rate_convert_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Gupshup Proxy bot» telegram bot",
+        "short_name": "@gupshupproxybot",
+        "description": "You can contact @gupshupproxybot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/59/59cfe739ccface5806f68e395763f8f9.jpg",
+        "subscribers": "8"
+      }
+    ],
+    [
+      {
+        "name": "«Evernote» telegram bot",
+        "short_name": "@evernoterobot",
+        "description": "Telegram bot for Evernote. Send any message to bot and it creates note in your Evernote notebook.",
+        "avatar": "https://files-warehouse.com/files/of_bots/28/285d30fb1347ddb8d0f90c70eed41837.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«D&D Dices 🎲» telegram bot",
+        "short_name": "@deddice_bot",
+        "description": "Returns a random value of a 4, 6, 8, 10, 12, 20, or a percentual dice &#x1F3B2;",
+        "avatar": "https://files-warehouse.com/files/of_bots/a3/a393a6358ad981869223afe59e73d586.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Gitlab» telegram bot",
+        "short_name": "@gitlab_bot",
+        "description": "Receive notifications from Gitlab(cloud and hosted version) and response to them quickly!",
+        "avatar": "https://files-warehouse.com/files/of_bots/fd/fda88830fd8ac5d7f1784c57e2ff5b03.jpg",
+        "subscribers": "8"
+      },
+      {
+        "name": "«Better CheatSheetBot» telegram bot",
+        "short_name": "@bettercheatsheet_bot",
+        "description": "Constantly updated collection of Cheat Sheets. Huge list og programming, reference, language, key bindings etc. sheets",
+        "avatar": "https://files-warehouse.com/files/of_bots/a8/a896e255f6a62918abeb9a4dd36678a6.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«TodoBot» telegram bot",
+        "short_name": "@thetodobot",
+        "description": "Create collaborative todo lists in Telegram group chats!",
+        "avatar": "https://files-warehouse.com/files/of_bots/99/9957e72fd04902716fbaabaa4bbb4157.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«David Torrent» telegram bot",
+        "short_name": "@davidtorrentbot",
+        "description": "Download music, movies, games, software!",
+        "avatar": "https://files-warehouse.com/files/of_bots/5a/5a98c710465970809ed233df705597a7.jpg",
+        "subscribers": "8"
+      },
+      {
+        "name": "«Aviation Weather Bot» telegram bot",
+        "short_name": "@avweatherbot",
+        "description": "You can contact @avweatherbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/1f/1fc6cb231fc2fdad8bdd0e172fc2ab05.png",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Rc_WordPress» telegram bot",
+        "short_name": "@rcwordpress_bot",
+        "description": "You can publish text, photo, video and audio files to your wordpress blog in a few clicks, and also manage your content",
+        "avatar": "https://files-warehouse.com/files/of_bots/4f/4ff71f70e8c114e3d6a5b6c1804f4b66.jpg",
+        "subscribers": "8"
+      },
+      {
+        "name": "«📝Random number📝» telegram bot",
+        "short_name": "@generatornumberbot",
+        "description": "You can contact @generatornumberbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/92/92635537f4519487c52d0e24fd251d4f.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Aviation Helper» telegram bot",
+        "short_name": "@aviationflybot",
+        "description": "Aviation Helper",
+        "avatar": "https://files-warehouse.com/files/of_bots/4d/4da78f433be929563463a1bedcdcf9f0.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Zcash Wallet» telegram bot",
+        "short_name": "@zwalletbot",
+        "description": "You can contact @zwalletbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/48/48f53f017b8a58db922c8356045e41e8.jpg",
+        "subscribers": "9"
+      }
+    ],
+    [
+      {
+        "name": "«Drive» telegram bot",
+        "short_name": "@driveme_bot",
+        "description": "You can contact @driveme_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d8/d8733eb7dc7f5888c9b7d5c2bbb6d8e6.png",
+        "subscribers": "7"
+      },
+      {
+        "name": "«BitcoinTalk» telegram bot",
+        "short_name": "@bitcointalk_bot",
+        "description": "You can contact @bitcointalk_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ec/eca4a38476e627da903f277e8a015b47.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«YACC – Yet Another Clear Chat Bot» telegram bot",
+        "short_name": "@clearchatbot",
+        "description": "Hides up stuff being said without losing chat history.",
+        "avatar": "https://files-warehouse.com/files/of_bots/c8/c835577aa0b5e41f79840e2503395d07.jpg",
+        "subscribers": "8"
+      },
+      {
+        "name": "«The Face Poster» telegram bot",
+        "short_name": "@anmolbot",
+        "description": "Have your emotions expressed in text without having to type them Updates &amp; News: https://telegram.me/FacePosting",
+        "avatar": "https://files-warehouse.com/files/of_bots/98/98fe28672958984c5e691260a8b6d2b9.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Messages to PDF» telegram bot",
+        "short_name": "@messagespdfbot",
+        "description": "I turn Telegram conversations into PDF documents!",
+        "avatar": "https://files-warehouse.com/files/of_bots/01/017d67259aee6871a2de837185d97356.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Calculator Bot» telegram bot",
+        "short_name": "@mathcalculatorbot",
+        "description": "You can contact @mathcalculatorbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ea/ea6e2587c84efb059d57ff2697d14b58.png",
+        "subscribers": "7"
+      },
+      {
+        "name": "«ForexJ&F» telegram bot",
+        "short_name": "@forexjf_bot",
+        "description": "You can contact @forexjf_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a1/a118189694c3a85514fcaa9b6ca14d7b.png",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Any File» telegram bot",
+        "short_name": "@anyfilebot",
+        "description": "Get any file with me ! ;)",
+        "avatar": "https://files-warehouse.com/files/of_bots/d6/d6fba5bb5aab4457c739d349ae16f181.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Free Bitcoins» telegram bot",
+        "short_name": "@freebitcoinsbot",
+        "description": "Get BitCoins for Free with Easy Ways! &#x1F4B0;&#x1F4B0;",
+        "avatar": "https://files-warehouse.com/files/of_bots/71/711578672fbeaf30ee1fac4210c4dae2.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@proxylinkbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "6"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@artwordbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "7"
+      }
+    ],
+    [
+      {
+        "name": "«Get My ID Bot» telegram bot",
+        "short_name": "@getmyidbot",
+        "description": "Replies with user, chat and message information from the received message.",
+        "avatar": "https://files-warehouse.com/files/of_bots/79/79076eed1f178e6cf5aaa8d75d272bf7.jpg",
+        "subscribers": "8"
+      },
+      {
+        "name": "«Calculator» telegram bot",
+        "short_name": "@thecalcbot",
+        "description": "The calculator that is a bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/88/8806ddd1a22583072c586b9fb9a1666c.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Short URL» telegram bot",
+        "short_name": "@theshorturlbot",
+        "description": "You can contact @theshorturlbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f0/f0401be717be9d2339753728b8ce5c41.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Berlin Public Transport» telegram bot",
+        "short_name": "@public_transport_bot",
+        "description": "https://github.com/derhuers/vbb-telegram",
+        "avatar": "https://files-warehouse.com/files/of_bots/9a/9a38bfdf08bc7027006e35cac868ceab.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«vpnboot» telegram bot",
+        "short_name": "@vpnbook_bot",
+        "description": "You can contact @vpnbook_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/de/ded66d951bd6581607420fd1f592d36f.png",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Hacker» telegram bot",
+        "short_name": "@kamyhackbot",
+        "description": "You can contact @kamyhackbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d6/d6e2fdff26a734aa33abcd5d75984756.png",
+        "subscribers": "6"
+      },
+      {
+        "name": "«pastemebot» telegram bot",
+        "short_name": "@pastemebot",
+        "description": "Code highlighter",
+        "avatar": "https://files-warehouse.com/files/of_bots/41/414c5da37e1fe7a728449c95e88e1593.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Yoda» telegram bot",
+        "short_name": "@yodabot",
+        "description": "Turn your sentences into Yoda-speak.",
+        "avatar": "https://files-warehouse.com/files/of_bots/1b/1bcf0ca11296c1ffb8b3b0531e025036.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Python Burst» telegram bot",
+        "short_name": "@pythonrulesbot",
+        "description": "Python bot, try me!",
+        "avatar": "https://files-warehouse.com/files/of_bots/b9/b9998172be020d3155e5aea4d8905552.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Tumblr Tag Search» telegram bot",
+        "short_name": "@tumblrtagbot",
+        "description": "This inline bot allows you to search video/gifs/photos in Tumblr by tag and send it.",
+        "avatar": "https://files-warehouse.com/files/of_bots/35/35df7e2ae8978a3b14aded815dd1cb70.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«track my parcel» telegram bot",
+        "short_name": "@the_tracking_bot",
+        "description": "Bot helps you track your parcels. If you have any questions or offers, please write on me@nick-on.name",
+        "avatar": "https://files-warehouse.com/files/of_bots/f3/f347c54aa593e76f67e2f2b5095e1a35.jpg",
+        "subscribers": "7"
+      }
+    ],
+    [
+      {
+        "name": "«EntryLevelJobs» telegram bot",
+        "short_name": "@entryleveljobsbot",
+        "description": "You can contact @entryleveljobsbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d7/d7a1c28e22897d8a2a6b220df2d51f95.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«vlasi» telegram bot",
+        "short_name": "@vlasibot",
+        "description": "A multipurpose telegram bot, written by @madyoda",
+        "avatar": "https://files-warehouse.com/files/of_bots/fe/fe838bab5605a3ca25dedcb68d3737db.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Instant Translate» telegram bot",
+        "short_name": "@insttranslatebot",
+        "description": "Instant Translate can translate anything between 104 languages. Just send us the text to translate!",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "6"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@tgifts_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Karma Bot» telegram bot",
+        "short_name": "@bestuserbot",
+        "description": "Karma is a bot to keet control of the user&apos;s reputation in a group.",
+        "avatar": "https://files-warehouse.com/files/of_bots/66/66e9a045e7bd7017186a07ea003f5181.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Readable Passwords Generator» telegram bot",
+        "short_name": "@passgenbot",
+        "description": "Use this bot to generate readable passwords. Supports Inline mode.\nPress /help for more info.",
+        "avatar": "https://files-warehouse.com/files/of_bots/c0/c065399f600408a94d5fafaf1d666659.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Xbox Live Status» telegram bot",
+        "short_name": "@xboxlivestatusbot",
+        "description": "You can contact @xboxlivestatusbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/60/600fe2bf68754bffd98e2a532a62dec8.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«ShapeShift.io Bot» telegram bot",
+        "short_name": "@shapeshift_bot",
+        "description": "Unofficial Shapeshift.io bot. You can use it to exchange any currency supported on Shapeshift.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2a/2a833fe5d97ac14c86687370738a7ffa.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Xapo Faucet List» telegram bot",
+        "short_name": "@xapofaucetbot",
+        "description": "Xapo Faucet bot was created to help you get much satoshi in a much faster way with various faucet websites in one place.",
+        "avatar": "https://files-warehouse.com/files/of_bots/bf/bf677d43003082d17d676eabf96e6d3f.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«AliExpress Search Bot» telegram bot",
+        "short_name": "@aliexpresssearchbot",
+        "description": "Search AliExpress by sending text to AliExpressSearchBot",
+        "avatar": "https://files-warehouse.com/files/of_bots/54/544090a0e515c905c246a42214ca7b93.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Voice 2 Text Bot» telegram bot",
+        "short_name": "@v2tbot",
+        "description": "Send me voice messages and I will transcribe them for you. I also work in groups!",
+        "avatar": "https://files-warehouse.com/files/of_bots/87/8708a9a12125b836cddccbfedf797880.jpg",
+        "subscribers": "5"
+      }
+    ],
+    [
+      {
+        "name": "«Hitagi» telegram bot",
+        "short_name": "@hitagibot",
+        "description": "Hitagi is qt anime bot capable of searching for TV shows, manga, characters, and fan art.",
+        "avatar": "https://files-warehouse.com/files/of_bots/b1/b1b8f30ef18b234e79db74ec4ce7d1a5.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«InLaTeXbot» telegram bot",
+        "short_name": "@inlatexbot",
+        "description": "InLaTeXbot converts LaTeX to images. Type @inlatexbot to start in inline mode or just directly send him your code!",
+        "avatar": "https://files-warehouse.com/files/of_bots/61/619d1d2ad430425f863e3fd2ab780766.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Chronus» telegram bot",
+        "short_name": "@schedulemakerbot",
+        "description": "Bot for making sharable schedules of whatever may be scheduled",
+        "avatar": "https://files-warehouse.com/files/of_bots/32/32cad069a234757037feddc3231f9f52.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«WeChat URL Shortener» telegram bot",
+        "short_name": "@wxmpbot",
+        "description": "A bot to improve WeChat article sharing experience in Telegram. Developed by @mutong. Get updates at @wxmpbotupdates.",
+        "avatar": "https://files-warehouse.com/files/of_bots/92/9206e4c541f9546824f6d8af6d24d52b.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«TurkeyDB» telegram bot",
+        "short_name": "@turkeydbbot",
+        "description": "turkeydb.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/38/3879b48e8633a5e9d150fcc9d0df2695.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@st2imgbot",
+        "description": "Hi!\nSend me a sticker and I&apos;ll return you a photo and a PNG image!",
+        "avatar": "https://files-warehouse.com/files/of_bots/b3/b3214d30319f5a7eec26f8e8289960e9.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@traducec_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Server monitoring bot» telegram bot",
+        "short_name": "@server_monitor_bot",
+        "description": "Check website availability every 3 minutes!",
+        "avatar": "https://files-warehouse.com/files/of_bots/61/61ba0e1de12b68a91bd4ff5376a4bb03.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Indeed Job Search» telegram bot",
+        "short_name": "@indeedbot",
+        "description": "Worldwide inline jobs search. Find new career opportunities, share with friends and subscribe for new jobs.&#xA0;",
+        "avatar": "https://files-warehouse.com/files/of_bots/0d/0dd4addfe3e492d6670839c3723e375b.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«RandomUserBot» telegram bot",
+        "short_name": "@randomuserbot",
+        "description": "You can contact @randomuserbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a1/a1658bd5ed90d713b8cdc7e1d83a2ab1.png",
+        "subscribers": "5"
+      },
+      {
+        "name": "«PNR Status Bot» telegram bot",
+        "short_name": "@pnrstatusbot",
+        "description": "This Bot Will Help You To Get The Latest Status Of Your Indian Railway Booking Status, Based on PNR Number. &#xA0;&#x1F44D;",
+        "avatar": "https://files-warehouse.com/files/of_bots/8e/8ee0de4afa9506c9d2f87af406155680.jpg",
+        "subscribers": "5"
+      }
+    ],
+    [
+      {
+        "name": "«Build Sticker Bot» telegram bot",
+        "short_name": "@buildstickerbot",
+        "description": "@BuildStickerBot makes a sticker from a photo.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e1/e163f638760d339b193809e7e11b6445.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«CloakBot» telegram bot",
+        "short_name": "@cloakbot",
+        "description": "Obfuscate your text messages!",
+        "avatar": "https://files-warehouse.com/files/of_bots/bd/bdf71575ee01d5ad58c15b2344d599b0.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«PNR Status Bot» telegram bot",
+        "short_name": "@pnrstatusbot",
+        "description": "This Bot Will Help You To Get The Latest Status Of Your Indian Railway Booking Status, Based on PNR Number. &#xA0;&#x1F44D;",
+        "avatar": "https://files-warehouse.com/files/of_bots/8e/8ee0de4afa9506c9d2f87af406155680.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Stickers Bot» telegram bot",
+        "short_name": "@stickerreceiverbot",
+        "description": "Bot for search stickers or publish to channel @TgSticker. /help\n&#x411;&#x43E;&#x442; &#x434;&#x43B;&#x44F; &#x43F;&#x43E;&#x438;&#x441;&#x43A;&#x430; &#x438; &#x43F;&#x443;&#x431;&#x43B;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x438; &#x441;&#x442;&#x438;&#x43A;&#x435;&#x440;&#x43E;&#x432;",
+        "avatar": "https://files-warehouse.com/files/of_bots/c9/c940e2136a7027442348e78f2b37e7a1.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Job4Joy.com» telegram bot",
+        "short_name": "@job4joybot",
+        "description": "You can contact @job4joybot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ca/ca07c23d7ad706f1cbb792ff4ba21afb.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«English To Tamil» telegram bot",
+        "short_name": "@entabot",
+        "description": "You can contact @entabot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ce/cec29149f9335147b70dc85bb3259ba7.png",
+        "subscribers": "5"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@appstorebottelegrambot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«coinofview.com BOT» telegram bot",
+        "short_name": "@coinofview_bot",
+        "description": "Bitcoin, Ethereum, Litecoin, Dash, NXT... we have info about more than 300 cryptocurrencies! http://coinofview.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/a3/a3ff4b228148c181a60e27ad24ed61c5.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«URL Shortener» telegram bot",
+        "short_name": "@surlbot",
+        "description": "Makes your URL shorter.",
+        "avatar": "https://files-warehouse.com/files/of_bots/08/0882e7b6d572b00eb0732958a26b2050.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«QuAn» telegram bot",
+        "short_name": "@quanbot",
+        "description": "You can contact @quanbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/44/444a789e4fd3b65a375b25d9554ddbf2.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Yid Ride™» telegram bot",
+        "short_name": "@yidridebot",
+        "description": "Request Or Offer A Ride To &amp; From Anywhere In The TriState Area\nQuestions, Comment? @YidFeedback",
+        "avatar": "https://files-warehouse.com/files/of_bots/70/700f542f46c9f9701c9d62f92920cadf.jpg",
+        "subscribers": "4"
+      }
+    ],
+    [
+      {
+        "name": "«Yid Ride™» telegram bot",
+        "short_name": "@yidridebot",
+        "description": "Request Or Offer A Ride To &amp; From Anywhere In The TriState Area\nQuestions, Comment? @YidFeedback",
+        "avatar": "https://files-warehouse.com/files/of_bots/70/700f542f46c9f9701c9d62f92920cadf.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Jarvis 陈» telegram bot",
+        "short_name": "@jarvischenbot",
+        "description": "You can contact @jarvischenbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/38/386c69c9ba15e446514c5eeda2a3012a.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«PHP Sandbox» telegram bot",
+        "short_name": "@phpsandbox_bot",
+        "description": "Bot for safe PHP code blocks execution.",
+        "avatar": "https://files-warehouse.com/files/of_bots/83/836b5ebf5b994999ab8f050a999b52a2.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@exploitsbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Daily Bible Read» telegram bot",
+        "short_name": "@holybiblebot",
+        "description": "You can contact @holybiblebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/52/52732b105a3208e43952f601c5efd465.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Telegram Themes» telegram bot",
+        "short_name": "@tthemebot",
+        "description": "Inline search bot for finding Telegram Desktop themes\nUpdate channel: @werewolfdev",
+        "avatar": "https://files-warehouse.com/files/of_bots/c5/c5d48bfbe2707babce3647f4ca66647d.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«get4chan» telegram bot",
+        "short_name": "@get4chanbot",
+        "description": "This bot allows you to download all media from 4chan.",
+        "avatar": "https://files-warehouse.com/files/of_bots/b7/b7728acdeb80dd73ffcaa4426da789fc.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«The Job Bot» telegram bot",
+        "short_name": "@jobobot",
+        "description": "The job hunter bot. Helps humans to find job offers worldwide and apply for the positions directly from the messenger.",
+        "avatar": "https://files-warehouse.com/files/of_bots/89/898ff72204946129f0a96e9ebd6bd6e3.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Paying Faucet Bot» telegram bot",
+        "short_name": "@faucetz_bot",
+        "description": "Get free bitcoins by using this bot get more than &#x1F4B0;&#x1F4B0; 1000 satoshi every 10mins",
+        "avatar": "https://files-warehouse.com/files/of_bots/ff/ff7e71fab5a645aabbeb67a62775acda.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@spoilingbot",
+        "description": "I&apos;m a bot that can help you send spoilers discreetly, so no one hates you for doing it.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ec/ec65729b3d39d32d02fc0c7e630c74a6.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«🔥Ultimate Bins🔥» telegram bot",
+        "short_name": "@premiumapkbot",
+        "description": "&#x3010;Premium Apk &amp; Free Apk&#x3011;\n&#x2611; Root Access Require &#x2611;\n&#x250F;&#x2501;&#x2501;&#x2501;&#x2728;&#x2728;&#x2501;&#x2501;&#x2501;&#x2501;&#x2513;\n&#x1F194; @PremiumApk\n&#x1F464; @SWEDI\n&#x2517;&#x2501;&#x2501;&#x2501;&#x2728;&#x2728;&#x2501;&#x2501;&#x2501;&#x2501;&#x251B;",
+        "avatar": "https://files-warehouse.com/files/of_bots/45/4514e1c884819083611fa35d7638bb01.jpg",
+        "subscribers": "5"
+      }
+    ],
+    [
+      {
+        "name": "«LuckyDiceBot» telegram bot",
+        "short_name": "@luckydicebot",
+        "description": "You can contact @luckydicebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ce/ce44a6fa21ebe2fbc2dabccb5a78bb23.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Inline Translator» telegram bot",
+        "short_name": "@interpreter_bot",
+        "description": "Bot-translator in inline mode",
+        "avatar": "https://files-warehouse.com/files/of_bots/de/ded707b10e4150a57525b61e708a9ab8.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Integram» telegram bot",
+        "short_name": "@integram_bot",
+        "description": "Integram open-source platform &#x2013; best services meets Telegram on a new level &#x2013;&#xA0;integram.org &#x1F6E0; Maintained by @requilence",
+        "avatar": "https://files-warehouse.com/files/of_bots/ad/ad59c1d98c2260d7c8f02326bd7603bb.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Brainstorm» telegram bot",
+        "short_name": "@brainbot",
+        "description": "You can contact @brainbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2b/2b4a7a966981e561fd45a5c73185313b.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Geo IP» telegram bot",
+        "short_name": "@ipgeobot",
+        "description": "Send me domain name or IP address and I will reply you with geolocation.",
+        "avatar": "https://files-warehouse.com/files/of_bots/c5/c5421f6e3a290eca3cee18bb2ff51f2f.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Image Translate Bot» telegram bot",
+        "short_name": "@imagetranslatebot",
+        "description": "Translates text in photographs to your language. Great when you&apos;re traveling in foreign countries.",
+        "avatar": "https://files-warehouse.com/files/of_bots/83/83d1ace8874762deb1266b2bd4cada6e.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Sunrise & Sunset bot» telegram bot",
+        "short_name": "@sunsettimebot",
+        "description": "You can contact @sunsettimebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/50/5023207152bb2b6edb2141d6f443a40d.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Stock Pro» telegram bot",
+        "short_name": "@stockprobot",
+        "description": "Stock Pro is finance bot that helps you to be on top of stock market trends.",
+        "avatar": "https://files-warehouse.com/files/of_bots/3e/3e105b4be18446ed9fee7725b9be4fb5.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«pastebin» telegram bot",
+        "short_name": "@pastebin_bot",
+        "description": "You can contact @pastebin_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/86/86160b0f544fc8c1344ea1e1cc5b92af.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«ExpenseBot» telegram bot",
+        "short_name": "@expense_bot",
+        "description": "You can contact @expense_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/20/205e338366cc30b6963a2a87c73f3200.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@oliviabot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      }
+    ],
+    [
+      {
+        "name": "«» telegram bot",
+        "short_name": "@nmapbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«My Ledger» telegram bot",
+        "short_name": "@myledgerbot",
+        "description": "You can contact @myledgerbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/0b/0b9651013f37a6110125a4f8a2e7e4e4.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Telebit Bitcoin Service» telegram bot",
+        "short_name": "@bitcoinwalletbot",
+        "description": "You can contact @bitcoinwalletbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/10/10ef68084bb7f676235d365ec5af4950.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Debt Tracker» telegram bot",
+        "short_name": "@debt_bot",
+        "description": "This bot keeps track of your debts with friends.\nInvented for monthly expenses, i.e. a shared netflix subscription.",
+        "avatar": "https://files-warehouse.com/files/of_bots/85/85be2cc4ee3d5f2c14a8f3a56146c94b.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Remind Me Bot» telegram bot",
+        "short_name": "@remindme_bot",
+        "description": "This bot keeps track of reminders! For more info, type /help.",
+        "avatar": "https://files-warehouse.com/files/of_bots/c2/c28aa73bd1b8272c21a46e784df27256.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@dictrobot",
+        "description": "I&apos;m an inline bot. I can define words for you!\nMade by : @nandan\nCheckout other bots: @misterbyte, @kalkulbot",
+        "avatar": "https://files-warehouse.com/files/of_bots/84/84961a6f44e151df2f69fdee9605082f.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«🤖» telegram bot",
+        "short_name": "@swingmailbot",
+        "description": "Channel @Best_Robots",
+        "avatar": "https://files-warehouse.com/files/of_bots/e7/e734eaa0b022cb53a0b1fedac384cb63.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«BettingBot» telegram bot",
+        "short_name": "@bettsbot",
+        "description": "Betting prediction across the world",
+        "avatar": "https://files-warehouse.com/files/of_bots/68/680cd8de1758b1cad19c916fa1a9e6a4.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«S4 Channels Bot» telegram bot",
+        "short_name": "@s4channelsbot",
+        "description": "&#x1F4E1; Channels Robot &#x1F4E1;\nThis bot will send formatted text to your channel. Powered by @S4Dynamics\n&#x1F525; Info: @S4Channels",
+        "avatar": "https://files-warehouse.com/files/of_bots/55/55057e23f06c5dadfc7407ce205dd520.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@hackertelegrambot",
+        "description": "Use this bot to hack your friends&apos; account",
+        "avatar": "https://files-warehouse.com/files/of_bots/22/22488a2be989f4b40998135eff808744.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@doodlerbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      }
+    ],
+    [
+      {
+        "name": "«» telegram bot",
+        "short_name": "@doodlerbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@hyip_monitor_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«CBoxBot» telegram bot",
+        "short_name": "@cboxbot",
+        "description": "CBox is a cloud-based file manager for your Telegram files.",
+        "avatar": "https://files-warehouse.com/files/of_bots/fa/fac26ca84e5625262dc5f9793c8bff59.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Codeveloper BOT» telegram bot",
+        "short_name": "@privbox_bot",
+        "description": "The PrivBox Bot is intended for the verification of public keys.",
+        "avatar": "https://files-warehouse.com/files/of_bots/0c/0c271f79d50c34b449f1ec1a01679a3b.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«MusicLyricsVideoBot» telegram bot",
+        "short_name": "@musiclyricsvideobot",
+        "description": "You can contact @musiclyricsvideobot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/21/21c83deb0fbb9df0d92636026cab15b8.png",
+        "subscribers": "3"
+      },
+      {
+        "name": "«BestsellerBot» telegram bot",
+        "short_name": "@mybookwormbot",
+        "description": "Get updates &#x2728; and check the hottest &#x1F525; bestseller &#x1F4DA; of your favorite genre!",
+        "avatar": "https://files-warehouse.com/files/of_bots/57/57898d537afcd2ca0a37c3f786b9e61a.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Message Statistics» telegram bot",
+        "short_name": "@messagestatisticsbot",
+        "description": "I am collecting your message statistics! View your stats by moving me into a group and type / to get a overview. &#x1F609;",
+        "avatar": "https://files-warehouse.com/files/of_bots/cb/cb93619ac60c0c2d0af766e6b1d46e4e.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«MoreTims_bot» telegram bot",
+        "short_name": "@moretims_bot",
+        "description": "IT solutions, web development, Android, wen hosting, domain registration and social media marketing. MoreTims.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/53/53847d9a703fa81cd23d9e461effeb01.png",
+        "subscribers": "3"
+      },
+      {
+        "name": "«iOS Apps Price Drop» telegram bot",
+        "short_name": "@iosapppricedropbot",
+        "description": "Bot by @radraziel",
+        "avatar": "https://files-warehouse.com/files/of_bots/93/93acf66421e493448cf9352b60a2f6b3.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Musescore» telegram bot",
+        "short_name": "@musescorebot",
+        "description": "Search Musescore for sheet music",
+        "avatar": "https://files-warehouse.com/files/of_bots/57/57fd3187519aaf9df3469565dd319868.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«bitworld» telegram bot",
+        "short_name": "@bitworldbot",
+        "description": "You can contact @bitworldbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/77/7787d4235c0c89f00850bbfc1e7e1a66.png",
+        "subscribers": "3"
+      }
+    ],
+    [
+      {
+        "name": "«» telegram bot",
+        "short_name": "@paypalmebot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Appshopper» telegram bot",
+        "short_name": "@appshopper_bot",
+        "description": "You can contact @appshopper_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a6/a62c7b51f1208e66341eb7158e597fc1.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Everything» telegram bot",
+        "short_name": "@everything_hacked_bot",
+        "description": "Cracked apk\nCracked pc games\nand a lot more",
+        "avatar": "https://files-warehouse.com/files/of_bots/bc/bc187a139777cef02096532d8e3ca55b.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Jobsboardbot» telegram bot",
+        "short_name": "@jobsboardbot",
+        "description": "You can contact @jobsboardbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/87/87bfc035958bf54d1da813df0e0323f4.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«geraldkrug» telegram bot",
+        "short_name": "@geraldkrug_bot",
+        "description": "All best bots run here. @geraldkrug_bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/9f/9f983424d5c30e1e37e6021855e71842.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Peel-A-Sticker» telegram bot",
+        "short_name": "@stickerfilebot",
+        "description": "Download your favorite stickers as images easily with this bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/32/3274a2669cd0a09b73cc921f0651e0f9.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Photos by DBot» telegram bot",
+        "short_name": "@photos_dbot",
+        "description": "You can contact @photos_dbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d2/d21864c6623723d78d4c9359145e7c12.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«taigagram» telegram bot",
+        "short_name": "@taigagrambot",
+        "description": "taigagram - the telegram integration for taiga project management tool.\ntaigagram.mikerocode.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/2b/2b70a7b025e2b75719da2a40aebf6fe0.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«TitanMaster» telegram bot",
+        "short_name": "@titanmasterbot",
+        "description": "Welcome to a new soccer betting experience&#x2705;",
+        "avatar": "https://files-warehouse.com/files/of_bots/55/554337805038a340cc49cc5da36be742.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«insta Downloader» telegram bot",
+        "short_name": "@instagramrobot",
+        "description": "Quickly! Download photo and video from instagram.\nthen save it to your gallery :D\nDeveloper: @SubScript",
+        "avatar": "https://files-warehouse.com/files/of_bots/1f/1f03e033b62012b21324e1cc861f5971.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«DriveIt» telegram bot",
+        "short_name": "@driveitbot",
+        "description": "I upload files from Telegram to Google Drive\nContact @JunBot for quick assistance",
+        "avatar": "https://files-warehouse.com/files/of_bots/90/9037b780fc4c4169078bf15a95cd5471.jpg",
+        "subscribers": "3"
+      }
+    ],
+    [
+      {
+        "name": "«DriveIt» telegram bot",
+        "short_name": "@driveitbot",
+        "description": "I upload files from Telegram to Google Drive\nContact @JunBot for quick assistance",
+        "avatar": "https://files-warehouse.com/files/of_bots/90/9037b780fc4c4169078bf15a95cd5471.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«🔎AliExpress Search» telegram bot",
+        "short_name": "@alistorebot",
+        "description": "&#x411;&#x43E;&#x442; &#x434;&#x43B;&#x44F; &#x43A;&#x430;&#x43D;&#x430;&#x43B;&#x430; @AliStore",
+        "avatar": "https://files-warehouse.com/files/of_bots/d4/d4f425471b1b9ac833e66f627c977f6e.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Transport Mate for London Bot» telegram bot",
+        "short_name": "@transportmatebot",
+        "description": "This is a tool for planning your journey with public transport in London.",
+        "avatar": "https://files-warehouse.com/files/of_bots/31/316d0b3715e022a3d1c2c56d978b8b1d.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Loan Calculator» telegram bot",
+        "short_name": "@loancalculatorbot",
+        "description": "This loan calculator will help you determine the monthly payments on a loan.",
+        "avatar": "https://files-warehouse.com/files/of_bots/fd/fd41ef266294063b8d2fcce13525cc40.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«DiscordRPG» telegram bot",
+        "short_name": "@drpgbot",
+        "description": "Get various DoscordRPG info from this bot!",
+        "avatar": "https://files-warehouse.com/files/of_bots/ba/ba3357431ef2933f0319d28cf12995d9.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Leonard Food Bot» telegram bot",
+        "short_name": "@leofoodbot",
+        "description": "I can show you nutrition facts for 8500 foods, calculate your daily intake of calories and send you video recipes.",
+        "avatar": "https://files-warehouse.com/files/of_bots/6c/6c3c879754cac6e7720d2652dc9d8cfc.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«3Dprintler 3D-Printing Bot» telegram bot",
+        "short_name": "@printlerbot",
+        "description": "You can contact @printlerbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/08/0869fe8cdfe2083b22ba6cc35c75ff27.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Alternative Bot Store» telegram bot",
+        "short_name": "@alternativestorebot",
+        "description": "&#x274C; Progetto eliminato\n~ powered by @DazStore",
+        "avatar": "https://files-warehouse.com/files/of_bots/d9/d9e434c2b06b9a7d100a12e730fece6f.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«DarkShop» telegram bot",
+        "short_name": "@darkshopbot",
+        "description": "The first and biggest server for sell and buy anythings illegal!",
+        "avatar": "https://files-warehouse.com/files/of_bots/8d/8d858db87c1e47128c8f355adca1b83a.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«todomebot» telegram bot",
+        "short_name": "@todomebot",
+        "description": "Simple task tracking bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/98/980d08fe4bb3b667d4295684e17ab5fa.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Music Link» telegram bot",
+        "short_name": "@musiclinkbot",
+        "description": "You can easily share Music links with your friends with me! Just use me inline and type the Name of a Song!",
+        "avatar": "https://files-warehouse.com/files/of_bots/88/885e211b3d8e4ffea55d3c5e1e1fcc37.jpg",
+        "subscribers": "3"
+      }
+    ],
+    [
+      {
+        "name": "«Pastebin Bot» telegram bot",
+        "short_name": "@pstbnbot",
+        "description": "@PstbnBot is bot for creating new paste on Pastebin.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/70/706f682f7984ac76d83a1efcec21315d.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Drink» telegram bot",
+        "short_name": "@drinkmore_bot",
+        "description": "This bot will help you to drink more water! &#x1F4A6;Set daily reminders and track your water intake with this bot!",
+        "avatar": "https://files-warehouse.com/files/of_bots/05/05287692fe4b338b7a753cbf444d4abf.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«All Amazon Compare» telegram bot",
+        "short_name": "@aamznbot",
+        "description": "You can contact @aamznbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/90/9024cb077f7df20abf1583aed1994adb.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«TempMail» telegram bot",
+        "short_name": "@tempmailbot",
+        "description": "You can contact @tempmailbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/bd/bdf8decb3ed8f1078e4456a0b3c594e3.png",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Text to Speech Bot» telegram bot",
+        "short_name": "@texttsbot",
+        "description": "TTS Telegram Bot. Problems? Bugs? Send an email to <oops@fearnode.net>",
+        "avatar": "https://files-warehouse.com/files/of_bots/65/651fac1fb05f5630f00de693abea6ffa.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Telegram Email» telegram bot",
+        "short_name": "@etlgr_bot",
+        "description": "Assign an email address to any Telegram chat: send and receive emails. https://etlgr.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/84/84a6c035763b073e692865093ba3df05.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Inline Translator» telegram bot",
+        "short_name": "@lutilbot",
+        "description": "Write the text you want to translate into the bot&apos;s channel or as an inline query, and lutilbot will translate it.",
+        "avatar": "https://files-warehouse.com/files/of_bots/70/70f65ed88c0c65aa08ae3f9e85cf23d9.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Bitcoin Wallet Bot» telegram bot",
+        "short_name": "@bitcoin_wallet_bot",
+        "description": "You can contact @bitcoin_wallet_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/67/67b6214578518b26d640924e2e50a571.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Assistant» telegram bot",
+        "short_name": "@smartassistantbot",
+        "description": "I&apos;m your personal assistant in Telegram which tracks your schedule and sends you notifications.",
+        "avatar": "https://files-warehouse.com/files/of_bots/94/9479c94c86d6dce7ff9cfdc415f13b79.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«TexBot» telegram bot",
+        "short_name": "@jh0ker_texbot",
+        "description": "You can contact @jh0ker_texbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e6/e6566f32e9bc39df3ff487361b442b16.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Youtube subscribe» telegram bot",
+        "short_name": "@subscribeyoutubebot",
+        "description": "Bot sends you links to new videos from the addition of channels to which you subscribe",
+        "avatar": "https://files-warehouse.com/files/of_bots/fb/fb0beaecc6d847430a973886d6afebcb.jpg",
+        "subscribers": "3"
+      }
+    ],
+    [
+      {
+        "name": "«Real Follower👥➕» telegram bot",
+        "short_name": "@instarealbot",
+        "description": "Use this bot to get free real followers... @InstaRealBot\n&#x1F609;",
+        "avatar": "https://files-warehouse.com/files/of_bots/b2/b2c79007ffb730b14140934b60c64be0.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Html Entity Encoder» telegram bot",
+        "short_name": "@htmlencbot",
+        "description": "Takes text strings and encodes non ASCII as HTML Entity Number.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a1/a154c5718d3339d1cdb468a1adf787e0.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Hexa» telegram bot",
+        "short_name": "@hcbot",
+        "description": "Check your movie timings, bus timing and even getting the weather! @HcBot",
+        "avatar": "https://files-warehouse.com/files/of_bots/3f/3fefa5f3f76edaca39a9735b1dcde538.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«GPS Weather» telegram bot",
+        "short_name": "@gps_weather_bot",
+        "description": "Display your location temperature",
+        "avatar": "https://files-warehouse.com/files/of_bots/96/9633a2008e8c66f9d276bc6426764494.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«telegramailbot» telegram bot",
+        "short_name": "@mail_to_telegram_bot",
+        "description": "You can contact @mail_to_telegram_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/6a/6a6f937a40e0c1449eba24c82fe004a9.png",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Shopping List» telegram bot",
+        "short_name": "@slistbot",
+        "description": "You can use this bot to make a shopping list and take other notes. Created by @ProfOak.",
+        "avatar": "https://files-warehouse.com/files/of_bots/fc/fcef84879118af94fd253f23e3baffc1.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Create event» telegram bot",
+        "short_name": "@createeventbot",
+        "description": "You can contact @createeventbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/45/45865f019caa68ff7405b22e7aa715e1.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@imperialbitcoinbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Mannu» telegram bot",
+        "short_name": "@mannu_bot",
+        "description": "India&#x2019;s First Personal Stock Market Assistant.",
+        "avatar": "https://files-warehouse.com/files/of_bots/10/1063f436aaae5a51edb4a65ed26155c9.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«AmaznBot» telegram bot",
+        "short_name": "@amaznbot",
+        "description": "An inline bot to quickly search amazon&apos;s products",
+        "avatar": "https://files-warehouse.com/files/of_bots/3d/3d90e695decbc9db680f883dcabede68.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Kenya OpenData Search» telegram bot",
+        "short_name": "@ke_opendata_bot",
+        "description": "Search and Download Data From Kenya Open Data. Maker @oty_geek",
+        "avatar": "https://files-warehouse.com/files/of_bots/aa/aa3897ee6e363c46fd9956e569c18c99.jpg",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«Kenya OpenData Search» telegram bot",
+        "short_name": "@ke_opendata_bot",
+        "description": "Search and Download Data From Kenya Open Data. Maker @oty_geek",
+        "avatar": "https://files-warehouse.com/files/of_bots/aa/aa3897ee6e363c46fd9956e569c18c99.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Tipeeestream Notifier» telegram bot",
+        "short_name": "@tipeeestreambot",
+        "description": "A bot which sends You follow and donation messages.",
+        "avatar": "https://files-warehouse.com/files/of_bots/8f/8f411f391d3fd547cfe7cd2ae46e77b2.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«everdatebot» telegram bot",
+        "short_name": "@everdatebot",
+        "description": "This bot will help you create events and invite to them your friends or publish on channel @everdate for more attendance",
+        "avatar": "https://files-warehouse.com/files/of_bots/f4/f457a60414cb3ec6ecaa8e3806f9f8ba.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Nostickers» telegram bot",
+        "short_name": "@nostickersbot",
+        "description": "&#x1F4A3; Ban users that share stickers, gif or voice. Add Nostickers to a group or supergroup as administator!",
+        "avatar": "https://files-warehouse.com/files/of_bots/e6/e6a25b5995a5f68a50e7fc74229e3d64.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@dokkybot",
+        "description": "Send me office document and I&apos;ll show you its content in Telegram",
+        "avatar": "https://files-warehouse.com/files/of_bots/81/81a4266f3f5f4ff8d1c0e2393d288783.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«JavaScriptBot» telegram bot",
+        "short_name": "@javascriptbot",
+        "description": "You can contact @javascriptbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2e/2e9cc5c8b822dc63da99b7dd2d6c36a4.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«DynahBot» telegram bot",
+        "short_name": "@dynahbot",
+        "description": "An ancient bot that can reveal the secrets behind of your received url links",
+        "avatar": "https://files-warehouse.com/files/of_bots/9d/9dcb66756a3ddac0ed0d00740cba2681.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«CodeshipBot» telegram bot",
+        "short_name": "@codeship_bot",
+        "description": "I send a message with details when a build succeeds or fails. Add me to groups or write me to start.",
+        "avatar": "https://files-warehouse.com/files/of_bots/1a/1a8ee1bbf1c1c86259a9739f9525354f.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Color Sample Bot» telegram bot",
+        "short_name": "@color_sample_bot",
+        "description": "You can contact @color_sample_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/3a/3a624a3fdd4760ef78bb336079d7a57a.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«My Subreddits Bot» telegram bot",
+        "short_name": "@mysubredditsbot",
+        "description": "Bot to easily follow top posts in various subreddits\nIf you have any questions contact me here: @minalabot",
+        "avatar": "https://files-warehouse.com/files/of_bots/23/235e6888c4c562229deaecc07c6d6175.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«outboxbot» telegram bot",
+        "short_name": "@outboxbot",
+        "description": "You can contact @outboxbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/39/3939f5fda312505a599172ffac8a8438.png",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«» telegram bot",
+        "short_name": "@christmassgift_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«vulners» telegram bot",
+        "short_name": "@vulnersbot",
+        "description": "VulnersBot gives you access to the one of the largest security databases in the world. Search, subscribe, stay updated",
+        "avatar": "https://files-warehouse.com/files/of_bots/87/878cb0b07ac3ee4a623bcf48d8c25a84.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Bitcoin Multiplier» telegram bot",
+        "short_name": "@coinmbot",
+        "description": "You can contact @coinmbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/12/129644bd828592c18c7026c9d79eb349.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Fortunebot» telegram bot",
+        "short_name": "@casual_bot",
+        "description": "The Ufficial Fortunebot",
+        "avatar": "https://files-warehouse.com/files/of_bots/02/023d2d258cd571bd573aa4b82d5eb17a.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Bloomshops» telegram bot",
+        "short_name": "@bloom_bot",
+        "description": "Bloom - the easiest way to find flower shops nearby",
+        "avatar": "https://files-warehouse.com/files/of_bots/2b/2b861eea1e497206ac2909bf38775efe.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«notifica» telegram bot",
+        "short_name": "@notifica_bot",
+        "description": "You can contact @notifica_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e3/e3576ad43095ae986c07dad104334a1e.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«AppStorio» telegram bot",
+        "short_name": "@appstoriobot",
+        "description": "I am just a bot of http://AppStor.io",
+        "avatar": "https://files-warehouse.com/files/of_bots/5f/5f7a417696d160166f06707326cf0809.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«SetWebHook|ست وب هوک» telegram bot",
+        "short_name": "@setwebhookbot",
+        "description": "Welcome|&#x62E;&#x648;&#x634; &#x627;&#x645;&#x62F;&#x6CC;&#x62F;\n&#x631;&#x628;&#x627;&#x62A; &#x633;&#x62A; &#x648;&#x628; &#x647;&#x648;&#x6A9; &#x267B;&#xFE0F;\n&#x1F44B;&#x1F603;\nSet Web Hook Bot &#x267B;&#xFE0F;\n&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;\nBot: @SetWebHookBot\nChanell: @apps1game1",
+        "avatar": "https://files-warehouse.com/files/of_bots/d6/d6258894860ad07e70344a0d3c5f3c68.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«ParkMe Bot» telegram bot",
+        "short_name": "@parkmebot",
+        "description": "Park your bot\nSets up a generic reply for your bot\nby @wjclub",
+        "avatar": "https://files-warehouse.com/files/of_bots/5e/5e70e955346b70ca7cd1c128a29c349b.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Text Emoji Bot» telegram bot",
+        "short_name": "@textemojibot",
+        "description": "Send text emojis/kaomojis/whatever using a simple inline command. Created by @ProfOak.",
+        "avatar": "https://files-warehouse.com/files/of_bots/0b/0bb750d018870c818da5c40fec9461c6.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@chatdebtsbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«MyChefBot» telegram bot",
+        "short_name": "@my_chef_bot",
+        "description": "Chef Bot has a huge database of recipes. There are almost 100 000 recipes available!",
+        "avatar": "https://files-warehouse.com/files/of_bots/88/88aed440c82aa49e160da0ee0850e199.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«notifica» telegram bot",
+        "short_name": "@notifica_bot",
+        "description": "You can contact @notifica_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e3/e3576ad43095ae986c07dad104334a1e.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«LICINDIA» telegram bot",
+        "short_name": "@licindiabot",
+        "description": "Do you want to become LIC Agent, Insurance Adviser? Get your all queries resolved. &amp; REGISTER ONLINE NOW!",
+        "avatar": "https://files-warehouse.com/files/of_bots/ec/ec1221365d2f3469a4a3c0c6b657e62f.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«HTTP Speed Bot» telegram bot",
+        "short_name": "@httpspeedbot",
+        "description": "Speed test HTTP requests &#x1F525;",
+        "avatar": "https://files-warehouse.com/files/of_bots/6b/6b8ee295b7c494294073b27ee63b53dd.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@chatdebtsbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Uplancebot» telegram bot",
+        "short_name": "@uplancebot",
+        "description": "Uplancebot can help you to keep up with new jobs on Upwork. Questions @goodsmileduck Our channel http://bit.ly/29TKZfB",
+        "avatar": "https://files-warehouse.com/files/of_bots/8b/8b8bbe9be92e5cfde47ce966131356af.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«URL Shortener 🔗» telegram bot",
+        "short_name": "@linkgeneratorbot",
+        "description": "Simple URL Shortener &#x1F335;\nThis bot can help you to shorten your long url.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f9/f99fefac0f761e0583bc8427f6ab9b39.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Daily Notes» telegram bot",
+        "short_name": "@dnotesbot",
+        "description": "Daily Notes Collector Bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/a9/a96fbd3edf55d038ec5aa25079f05d3e.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«FunnySpanishBot» telegram bot",
+        "short_name": "@funnyspanishbot",
+        "description": "Welcome to Funny Spanish",
+        "avatar": "https://files-warehouse.com/files/of_bots/c3/c348c064ca4294fb4822603e2b4d729f.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Taskbot» telegram bot",
+        "short_name": "@mytasksbot",
+        "description": "You can contact @mytasksbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ab/ab1c2acf0aeaaf03ac6b0729c3f1dec2.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@utilsbot",
+        "description": "Utils Bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/ab/ab91c41920e29f2bd24e719ab26aefa8.jpg",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«BookmarchBot» telegram bot",
+        "short_name": "@bookmarchbot",
+        "description": "BookmarchBot saves your favorite links so you can easily find &amp; send them later.",
+        "avatar": "https://files-warehouse.com/files/of_bots/36/36556f40020f4a321274a12275df978d.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«TeleDrive» telegram bot",
+        "short_name": "@tele_drive_bot",
+        "description": "I&apos;m dead &#x2620;&#xFE0F;\nPlease use @DriveItBot",
+        "avatar": "https://files-warehouse.com/files/of_bots/01/0146b19efa963b25429da3c82b80faa9.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Claptrap» telegram bot",
+        "short_name": "@claptrapbot",
+        "description": "Bot desliga(n)do. Backup dos comandos: pastebin.com/DiT8Hrxp",
+        "avatar": "https://files-warehouse.com/files/of_bots/a6/a6f053072eb64e4f3dcf42dff37859ca.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«IamAnge_Bot» telegram bot",
+        "short_name": "@ange_bot",
+        "description": "You can contact @ange_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e6/e68c405dc37fb0e29a96b59639bd647f.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«XDA» telegram bot",
+        "short_name": "@xda_bot",
+        "description": "This bot will help you in navigation on XDA",
+        "avatar": "https://files-warehouse.com/files/of_bots/1b/1bc3719fe59bb030914d22d04bbf8451.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«RNS» telegram bot",
+        "short_name": "@r0mancebot",
+        "description": "RNS Business Online Referral links",
+        "avatar": "https://files-warehouse.com/files/of_bots/13/13a27883c104ba3fea9c495a3f2ef0f5.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Bitbucket» telegram bot",
+        "short_name": "@bitbucket_bot",
+        "description": "Receive notifications from Bitbucket and response to them inside your cosy chat!",
+        "avatar": "https://files-warehouse.com/files/of_bots/a2/a2ec7b784a21c2108e991bdb19c9e130.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Node Uncaught Exceptions» telegram bot",
+        "short_name": "@nodeexceptionbot",
+        "description": "You can contact @nodeexceptionbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/7d/7d44dd9d5d2ca0ae97956329165daf2d.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Group Thor» telegram bot",
+        "short_name": "@groupthorbot",
+        "description": "A Group Management Bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/f0/f074df97de303e46d60b3aebcf379416.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Find me a manwha» telegram bot",
+        "short_name": "@manwha_bot",
+        "description": "You can contact @manwha_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/96/96fa8382fc027e44beab7409132152d4.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@stonerbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«Treasure Cruise Info» telegram bot",
+        "short_name": "@treasurecruisebot",
+        "description": "This Telegram bot provides all the information you need about the characters in OPTC. Coded by Trashbytes and stereo89.",
+        "avatar": "https://files-warehouse.com/files/of_bots/08/0842e949c8ffd25a387ab0f73b156178.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«QRCodebot – Not just a QRCode reader.» telegram bot",
+        "short_name": "@qr_codebot",
+        "description": "QRCodebot - Not just a qrCode reader.\nDocumentation: veetaw.ml/qrcode\nDeveloped by @veetaw",
+        "avatar": "https://files-warehouse.com/files/of_bots/1f/1f4d7901d1623bfd20ee228f05ea31a0.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@myairbnb_bot",
+        "description": "To airbnb or not to airbnb, that&apos;s the question I&apos;ll answer for thee. (This is an unofficial bot)",
+        "avatar": "https://files-warehouse.com/files/of_bots/fa/fa47f2521d15c8afcc0df949a4ee0893.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Telegram Apps» telegram bot",
+        "short_name": "@appstelegrambot",
+        "description": "I&#x2019;ll help you to find various types of Official/Unofficial Telegram apps.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2b/2b64d6b7efb796b6585cf29b6a364538.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«GeoLocatingBot» telegram bot",
+        "short_name": "@geolocatingbot",
+        "description": "You can contact @geolocatingbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f6/f63edcc38e3c58d8a9eb1f7fdbfd1088.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Odd Even» telegram bot",
+        "short_name": "@oddevenbot",
+        "description": "Odd Even bot for Delhi",
+        "avatar": "https://files-warehouse.com/files/of_bots/dd/ddff1e766bca2bd3bc3712a0d4b4dcc9.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«URL Uploader» telegram bot",
+        "short_name": "@uploadbot",
+        "description": "Quick way to upload files to telegram by url.\nMaximum file size allowed 500MB\nDaily upload limit 1GB, /upgrade for more",
+        "avatar": "https://files-warehouse.com/files/of_bots/13/13b34aa77e93c4454a8d610c92e79d60.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«AfterShip Official» telegram bot",
+        "short_name": "@aftershiprobot",
+        "description": "AfterShip Official Bot for Telegram&#x1F918;&#x1F3FC;",
+        "avatar": "https://files-warehouse.com/files/of_bots/fc/fc6e8ba2023b2d136d2140d73b1b593e.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Meta Data» telegram bot",
+        "short_name": "@metadatabot",
+        "description": "Get all metadata associated with a file or message: file_id, fliename, chat_id, user_id etc.",
+        "avatar": "https://files-warehouse.com/files/of_bots/70/70fde828d863591d413760682127809a.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Real Pronunciations» telegram bot",
+        "short_name": "@pronouncebot",
+        "description": "Hear a real person say the word you ask for",
+        "avatar": "https://files-warehouse.com/files/of_bots/14/14aa06d173fc3b57d24746709a026b93.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«E-Mail Bot» telegram bot",
+        "short_name": "@smtpbot",
+        "description": "I receive E-Mail and deliver them to you through Telegram.",
+        "avatar": "https://files-warehouse.com/files/of_bots/92/92fea77e89bf720ff0af7e90121e76e5.jpg",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«Programmable bot» telegram bot",
+        "short_name": "@programmablebot",
+        "description": "You can contact @programmablebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a3/a38bcf8333234252c02a79c3c9b4d421.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«BSNL Updates» telegram bot",
+        "short_name": "@bsnlupdatesbot",
+        "description": "Latest BSNL offers and updates.\nOur channel: @bsnlupdates.\nSend your feedback to @appchoosebot",
+        "avatar": "https://files-warehouse.com/files/of_bots/3c/3c096d742489dbfac517bc3e172010fd.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«TheColorBot» telegram bot",
+        "short_name": "@thecolorbot",
+        "description": "@TheColorBot is still in development. If you have any feedback or suggestions please contact @thebotsupport",
+        "avatar": "https://files-warehouse.com/files/of_bots/3d/3d2aee5ec290d1e5d645be0f03101290.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Steam Watcher Bot» telegram bot",
+        "short_name": "@steamwatcherbot",
+        "description": "Never miss another Steam sale! Tell me which games are you interested in and I&apos;ll watch them for you. &#x1F609;",
+        "avatar": "https://files-warehouse.com/files/of_bots/a3/a38f5c2cae4f50dcae3e88ada2dfd49d.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«uptimeMonitorBot» telegram bot",
+        "short_name": "@uptimemonitorbot",
+        "description": "Will send out a notification if your site goes down. Maintained by @unreal4u",
+        "avatar": "https://files-warehouse.com/files/of_bots/1a/1a8e2a9d92fbb0f0bf9d6512c02fd241.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«tlgur» telegram bot",
+        "short_name": "@tlgurbot",
+        "description": "Get a public link for a photo/video/file with Telegram.\nSupport at t.me/tlgursupport",
+        "avatar": "https://files-warehouse.com/files/of_bots/2d/2d04aa52e3f27fd321d9783f4f598887.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«CloudFileBot» telegram bot",
+        "short_name": "@cloudfilebot",
+        "description": "Send me any file and i will save it on your cloud storage!",
+        "avatar": "https://files-warehouse.com/files/of_bots/8b/8b9088900e7b6db269d09cbd5806890a.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«E2T» telegram bot",
+        "short_name": "@e2tbot",
+        "description": "This bot creates your personal email address. Incoming messages to this email address are sent in the Telegram.",
+        "avatar": "https://files-warehouse.com/files/of_bots/96/96943e7b8f81516aa1556607b969e885.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«imeibot» telegram bot",
+        "short_name": "@imeibot",
+        "description": "Bot client for IMEIBOT.COM IMEI Services\nStay updated - subscribe to official news channel https://t.me/imeibotnews &#x1F4A1;",
+        "avatar": "https://files-warehouse.com/files/of_bots/25/257a4d0720285237e741f6b1fcc75c2e.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«My Weather» telegram bot",
+        "short_name": "@myweather_bot",
+        "description": "Send Location and you get a weather.",
+        "avatar": "https://files-warehouse.com/files/of_bots/0e/0e0f455d289eb0e00662bebe77f4165a.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«shr.name» telegram bot",
+        "short_name": "@shrnamebot",
+        "description": "Simple URL shortener &#x22C5; &#x41F;&#x440;&#x43E;&#x441;&#x442;&#x43E;&#x439; &#x441;&#x43E;&#x43A;&#x440;&#x430;&#x442;&#x438;&#x442;&#x435;&#x43B;&#x44C; &#x441;&#x441;&#x44B;&#x43B;&#x43E;&#x43A;\n~\nAdvertise &#x22C5; &#x420;&#x435;&#x43A;&#x43B;&#x430;&#x43C;&#x430;:\n@sventsitsky",
+        "avatar": "https://files-warehouse.com/files/of_bots/c9/c978d1f42412ad1d6c6dd712a626fa11.jpg",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«Electronic Best Buy» telegram bot",
+        "short_name": "@best_electronics_bot",
+        "description": "You can contact @best_electronics_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e6/e6ac7611682be08aa66c821f06a5d3af.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«STARBUCKS☕️☕️☕️» telegram bot",
+        "short_name": "@starbucksbotbot",
+        "description": "&#x2615;&#xFE0F;&#x2615;&#xFE0F;&#x2615;&#xFE0F;",
+        "avatar": "https://files-warehouse.com/files/of_bots/fe/fe786e0ec381d89867efa0f93e5f1ad1.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Plexus-Energy» telegram bot",
+        "short_name": "@plexusenergy_bot",
+        "description": "You can contact @plexusenergy_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/24/24e405a9ec79262ea1f5da6737bc5dc7.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«LatexBot v3» telegram bot",
+        "short_name": "@latexbot",
+        "description": "You can contact @latexbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/bf/bfdbb31cbd49efd72b2b7c40d2fb08cc.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Self Destruct Bot» telegram bot",
+        "short_name": "@selfdestructbot",
+        "description": "You can contact @selfdestructbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/b1/b18f4b0e3304f7a74db897669121294f.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«SkeletonBro» telegram bot",
+        "short_name": "@skeleton_bot",
+        "description": "You can contact @skeleton_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/91/91e32ed775cb9b8c430acc6ef89e8bb0.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Safe in Breastfeeding» telegram bot",
+        "short_name": "@safedrugbot",
+        "description": "A tool for doctors and professionals on breastfeeding to find information about secure drugs.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ef/eff353e8ce40bf4f7f97701076f84900.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Mac Apps Price Drop» telegram bot",
+        "short_name": "@macapppricedropbot",
+        "description": "Bot by @radraziel",
+        "avatar": "https://files-warehouse.com/files/of_bots/51/517f9b215db7c7c89c4bf6f55ce8119e.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«DMG Media» telegram bot",
+        "short_name": "@digipoint_bot",
+        "description": "You can contact @digipoint_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/bf/bfc48e49fe56efc6ac952d302953fb74.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Hong Kong Flights» telegram bot",
+        "short_name": "@hongkongflights_bot",
+        "description": "You can contact @hongkongflights_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/67/67acc5f708f0973b91b46d267ba99561.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«RpgDice» telegram bot",
+        "short_name": "@rpgdice_bot",
+        "description": "This bot will roll dices using rpg notation.",
+        "avatar": "https://files-warehouse.com/files/of_bots/16/1675987790e643e2f09d1b2d6f3c8af1.png",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«Esperanto Tool» telegram bot",
+        "short_name": "@esperibot",
+        "description": "Useful tools for the constructed language, Esperanto.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f4/f4d41b1c7f2f6a647586cde544f74117.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«IsDownBot» telegram bot",
+        "short_name": "@isdownbot",
+        "description": "Test if given website is up",
+        "avatar": "https://files-warehouse.com/files/of_bots/21/21b73d6134f321df8744c1f287ea9c9b.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«DMG Media» telegram bot",
+        "short_name": "@digipoint_bot",
+        "description": "You can contact @digipoint_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/bf/bfc48e49fe56efc6ac952d302953fb74.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«RpgDice» telegram bot",
+        "short_name": "@rpgdice_bot",
+        "description": "This bot will roll dices using rpg notation.",
+        "avatar": "https://files-warehouse.com/files/of_bots/16/1675987790e643e2f09d1b2d6f3c8af1.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«SteamDB» telegram bot",
+        "short_name": "@steamdbbot",
+        "description": "This bot let you search any steam profile in steamdb.info web page.\nMade by @Tinoquete",
+        "avatar": "https://files-warehouse.com/files/of_bots/95/958f3445c1c2cf98d52c696ea37526c2.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Cloud File In Telegram» telegram bot",
+        "short_name": "@cloudfile_bot",
+        "description": "&#x1F50A; Share your file with other user in telegram.",
+        "avatar": "https://files-warehouse.com/files/of_bots/65/65cf187a5454a71860383a091d7923e9.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Emosh | Diary Bot» telegram bot",
+        "short_name": "@emosh_bot",
+        "description": "Emosh is an easy and outstanding tool to keep a diary! Secure, fast and easy. (Contact: use /contact command)",
+        "avatar": "https://files-warehouse.com/files/of_bots/87/87180d022bcd7561b1bb78a4cd9ef0d1.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Hong Kong Flights» telegram bot",
+        "short_name": "@hongkongflights_bot",
+        "description": "You can contact @hongkongflights_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/67/67acc5f708f0973b91b46d267ba99561.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Figlet bot» telegram bot",
+        "short_name": "@figletsbot",
+        "description": "This bot will create a big ASCII version of the text you send him. Written by @danogentili.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f1/f1187aac432caaa59d4dbf8f2c0ef818.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«TrafficRobot» telegram bot",
+        "short_name": "@trafficrobot",
+        "description": "API to your telegram, disposable emails, Browser extension",
+        "avatar": "https://files-warehouse.com/files/of_bots/58/58f859bda2d3971cfca44fd12b721e6f.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«BinancePriceChecker» telegram bot",
+        "short_name": "@csgoprices_bot",
+        "description": "Get prices from Binance right to your Telegram!",
+        "avatar": "https://files-warehouse.com/files/of_bots/64/645404a48a1e36100c5ecf24d5eabb0d.jpg",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«Calculator Bot» telegram bot",
+        "short_name": "@kalkulbot",
+        "description": "You can contact @kalkulbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/04/0489b8ae9199fba755ec70c5245a450a.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Emirates Islamic» telegram bot",
+        "short_name": "@emiratesislamicbot",
+        "description": "You can contact @emiratesislamicbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/3f/3f5ee589f61ed980cc46fac7c88679e7.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«TrafficRobot» telegram bot",
+        "short_name": "@trafficrobot",
+        "description": "API to your telegram, disposable emails, Browser extension",
+        "avatar": "https://files-warehouse.com/files/of_bots/58/58f859bda2d3971cfca44fd12b721e6f.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«kplcbot» telegram bot",
+        "short_name": "@kplcbot",
+        "description": "You can contact @kplcbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ff/ffeb959fbb80681878d7b33e3f95f087.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Meme Generator Bot» telegram bot",
+        "short_name": "@meme_generator_bot",
+        "description": "This bot gives you the ability to create Memes on the fly",
+        "avatar": "https://files-warehouse.com/files/of_bots/0c/0c90f74a7b8abdfbbf130c2b1347f3d6.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«X2in_24hrs» telegram bot",
+        "short_name": "@x2in_24hrsbot",
+        "description": "X2in_24hrsbot double your bitcoin in just 24hrs .",
+        "avatar": "https://files-warehouse.com/files/of_bots/9f/9fd23d11792442b2cd010d6ff099c2d8.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Converter Bot» telegram bot",
+        "short_name": "@converter_robot",
+        "description": "You can contact @converter_robot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/57/57eb036470b3193c885a6e9f28e3a231.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Movie Showtimes Bot» telegram bot",
+        "short_name": "@showtimesbot",
+        "description": "You can contact @showtimesbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/33/33852a7cb8f8c672b3223d518ca86221.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«GoogleBot» telegram bot",
+        "short_name": "@googledebot",
+        "description": "You can contact @googledebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/b0/b0783786a49d71366c4a3a09669e38a4.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Pureanalysis» telegram bot",
+        "short_name": "@pureanalysis_bot",
+        "description": "You can contact @pureanalysis_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/83/83db23459dae52611e7c407916780bd0.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Find a Lawyer» telegram bot",
+        "short_name": "@findalawyerbot",
+        "description": "This bot will help you finding\nlawyers in Russia and CIS.",
+        "avatar": "https://files-warehouse.com/files/of_bots/85/8587e6008ed5476394fe6891a714b9cf.jpg",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«Find a Lawyer» telegram bot",
+        "short_name": "@findalawyerbot",
+        "description": "This bot will help you finding\nlawyers in Russia and CIS.",
+        "avatar": "https://files-warehouse.com/files/of_bots/85/8587e6008ed5476394fe6891a714b9cf.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Calculator Bot» telegram bot",
+        "short_name": "@kalkulbot",
+        "description": "You can contact @kalkulbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/04/0489b8ae9199fba755ec70c5245a450a.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Converter Bot» telegram bot",
+        "short_name": "@converter_robot",
+        "description": "You can contact @converter_robot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/57/57eb036470b3193c885a6e9f28e3a231.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Joe_DemoBot» telegram bot",
+        "short_name": "@supermansbot",
+        "description": "Demo Bitcoin sender bot for Client @Joe_official",
+        "avatar": "https://files-warehouse.com/files/of_bots/c8/c8ee814a8f64f61a4485e90875e0da99.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«HearthstoneDB» telegram bot",
+        "short_name": "@hearthstonedbbot",
+        "description": "This inline bot allows you to find Hearthstone card by name and send it to your friend.",
+        "avatar": "https://files-warehouse.com/files/of_bots/18/18061b12a91906c82b3ec2968354e1a4.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Haru» telegram bot",
+        "short_name": "@harubot",
+        "description": "Haru is a bot to search anime, manga, character and search anime throught screenshot. https://paypal.me/ringgorad",
+        "avatar": "https://files-warehouse.com/files/of_bots/6b/6bef355c2b83b7de8858a277858bb54b.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Compile Bot» telegram bot",
+        "short_name": "@compilebot",
+        "description": "Compile and run code on Telegram and share the output with your friends. Am I down? Check: https://botstatus.horner.tj",
+        "avatar": "https://files-warehouse.com/files/of_bots/f2/f2edafba4e127f19de27c7a7172d2e89.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«flightbook_bot» telegram bot",
+        "short_name": "@flightbook_bot",
+        "description": "You can view and join @flightbook_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/89/894751bd0fe429dc194474f5b3fba7b1.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Trello Bot» telegram bot",
+        "short_name": "@mytrello_bot",
+        "description": "The true Cinderello of Trello, just don&apos;t feed me after midnight.",
+        "avatar": "https://files-warehouse.com/files/of_bots/28/28f377745e5d1e2acb81a1d17b02d132.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«تکستپیک» telegram bot",
+        "short_name": "@textpicbot",
+        "description": "You can contact @textpicbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/75/75bdf9694d31a98b2c05178077901932.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Live Coin» telegram bot",
+        "short_name": "@livecoinbot",
+        "description": "You can contact @livecoinbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/cd/cde3abb2593f228dc83644514e3365e8.jpg",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«Minecraft Bot» telegram bot",
+        "short_name": "@craft_robot",
+        "description": "A bot to help you craft items in Minecraft",
+        "avatar": "https://files-warehouse.com/files/of_bots/e9/e96d942ded9267814413c376f90068e8.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«UniversalAgent1Bot» telegram bot",
+        "short_name": "@universalagent1bot",
+        "description": "You can contact @universalagent1bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a4/a4267808738fd6cb122a4d2027307e8f.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Octeon» telegram bot",
+        "short_name": "@octeon_bot",
+        "description": "Moved to @aigis_bot due to copyright issues. Contact @octonezd if you need username",
+        "avatar": "https://files-warehouse.com/files/of_bots/3d/3d161d4e59a66f2164aedf4d9b927a09.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@main_weather_robot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@lewisaibot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@fabrosobot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«theJotBot» telegram bot",
+        "short_name": "@thejotbot",
+        "description": "theJotBot is a minimalist bot intended to help jot down quick notes and reminders.",
+        "avatar": "https://files-warehouse.com/files/of_bots/35/35db9429bb195e74df81a23c03919f5a.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@paypal_money_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Champcashbot» telegram bot",
+        "short_name": "@champcashbot",
+        "description": "Earn Money With Champcash! And Buy Google Play / Itunes Gift Cards!\nGet Assured Money! No fraud No scam",
+        "avatar": "https://files-warehouse.com/files/of_bots/fc/fc60af72e23014aaf36417ebbac664c0.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@brandoncyrusbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@randomnumberto10bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      }
+    ],
+    [
+      {
+        "name": "«MinecraftBot» telegram bot",
+        "short_name": "@minecraftmc_bot",
+        "description": "Get server status from IP and player skin from username",
+        "avatar": "https://files-warehouse.com/files/of_bots/ab/ab71f0ae1accbdd5569231e8cbd67912.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Tracer» telegram bot",
+        "short_name": "@ipaboutbot",
+        "description": "I can retrieve informations about any valid ip address you send me :) I work via inline mode!",
+        "avatar": "https://files-warehouse.com/files/of_bots/31/31dbd73c1c215d107b7dd984d54dea88.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@spamyourlinkandbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Weather» telegram bot",
+        "short_name": "@forecast_bot",
+        "description": "You can contact @forecast_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e8/e835dbea87a6a06fb7538bd1d698a33a.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@askeinsteinbackgroundbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«BibleGateway Bot» telegram bot",
+        "short_name": "@biblegatewaybot",
+        "description": "Search and retrieve bible passages from biblegateway.com",
+        "avatar": "https://files-warehouse.com/files/of_bots/b2/b2abb5e4516c9708abfe8da3a2ff147b.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«需要我帮你百度么 (Let me Baidu that for you)» telegram bot",
+        "short_name": "@lmbtfybot",
+        "description": "Bot for the http://lmbtfy.cn/ website. Created by @ProfOak.",
+        "avatar": "https://files-warehouse.com/files/of_bots/9e/9ecab8cb20dd2288431c1c429ef9a186.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«ExpenseBot» telegram bot",
+        "short_name": "@expensebot",
+        "description": "You can contact @expensebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d1/d1989fd18a93e56a8299eed999de861f.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«WhatToEatBot» telegram bot",
+        "short_name": "@whattoeatbot",
+        "description": "Ain&apos;t got no idea for dinner?",
+        "avatar": "https://files-warehouse.com/files/of_bots/df/df030e524e4183699e952bc1bc197068.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«t» telegram bot",
+        "short_name": "@the_weather_bot",
+        "description": "You can contact @the_weather_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/91/915da4a5193efec9c76b5283ae70666a.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«BitFaucets Bot 🤖» telegram bot",
+        "short_name": "@bitfaucetsbot",
+        "description": "You can contact @bitfaucetsbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2f/2f3c26a1a08695c11dc4f9b3333d9069.jpg",
+        "subscribers": "1"
+      }
+    ],
+    [
+      {
+        "name": "«Dyddah» telegram bot",
+        "short_name": "@dyddahbot",
+        "description": "You can contact @dyddahbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/60/60f9a9cd61a73343c7239170402f0578.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«tagger» telegram bot",
+        "short_name": "@taggsbot",
+        "description": "You can contact @taggsbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/93/93e7ac3ec74a8e63417978a52f2fa3a5.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«TTS Bot» telegram bot",
+        "short_name": "@ttspeechbot",
+        "description": "You can contact @ttspeechbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/5e/5e05d140d848b1a3ac90dad5e27f64f8.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«AppGiveaways» telegram bot",
+        "short_name": "@freeappsnotifierbot",
+        "description": "Apps gone free, app promocode from app stores. You can send your suggestions/feedback to @appchoosebot",
+        "avatar": "https://files-warehouse.com/files/of_bots/65/65fab20b8f8fd4b8c584cba32303a5ab.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«randomize» telegram bot",
+        "short_name": "@truerandombot",
+        "description": "You can contact @truerandombot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f7/f71c51ef15b9ab3b075ba300585b12af.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«CharsBot» telegram bot",
+        "short_name": "@charsbot",
+        "description": "You can contact @charsbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/73/7347fbf3c1d8e23fc06032ec256a7a33.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Forexcoin» telegram bot",
+        "short_name": "@forexcoinbot",
+        "description": "You can contact @forexcoinbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2d/2d73b6d435818a66141e79d419213e6a.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«SocialSave» telegram bot",
+        "short_name": "@socialsavebot",
+        "description": "This bot allows you to download photos/videos from instagram or YouTube to your device.\nContact @surbies",
+        "avatar": "https://files-warehouse.com/files/of_bots/8e/8ec14e19a22214aa7d6f77a6dad79f2c.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Siarobo» telegram bot",
+        "short_name": "@siarobot",
+        "description": "Siarobo is a multi plugins bot.\nJoin @Siyanews for more information.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ff/ffebbc136ae31659d09de19ee09be650.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«BinBot» telegram bot",
+        "short_name": "@bincheckbot",
+        "description": "You can contact @bincheckbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/07/0746c858dc36ac2881b2eac0e9a36f52.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«@DeepTestBot» telegram bot",
+        "short_name": "@DeepTestBot&#xBB; telegram bot<h3></h3></a>@deepodobot",
+        "description": "You can contact @deepodobot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2e/2e1df4c1f872c9f4858f1c8467f19b69.png",
+        "subscribers": "1"
+      }
+    ],
+    [
+      {
+        "name": "«BinBot» telegram bot",
+        "short_name": "@bincheckbot",
+        "description": "You can contact @bincheckbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/07/0746c858dc36ac2881b2eac0e9a36f52.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«@DeepTestBot» telegram bot",
+        "short_name": "@DeepTestBot&#xBB; telegram bot<h3></h3></a>@deepodobot",
+        "description": "You can contact @deepodobot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2e/2e1df4c1f872c9f4858f1c8467f19b69.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«[BETA] SKIM BOT» telegram bot",
+        "short_name": "@skimbot",
+        "description": "A Skimming Bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/b5/b566f19571f4f1da06e559c66d6db195.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«mudahslim» telegram bot",
+        "short_name": "@mudahslimbot",
+        "description": "You can contact @mudahslimbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/bf/bf2e3018132c52daa4bb3144b0a6e192.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«TinyLittleRobot⚠️Under construction» telegram bot",
+        "short_name": "@tinylittlerobot",
+        "description": "PHP based indev.-bot by @bLaCkPaL3 /#/ MySQL-Database /#/ Pic based on an artwork by @Fehgot",
+        "avatar": "https://files-warehouse.com/files/of_bots/d5/d5bae3de8fe00434e0278bba00ff9b19.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@duckduckbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Skycoin» telegram bot",
+        "short_name": "@skycoinbot",
+        "description": "You can contact @skycoinbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/09/09efae5e46324113d335d70972df261e.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Ravenna Recipe» telegram bot",
+        "short_name": "@ravennabot",
+        "description": "You can contact @ravennabot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ea/ea1b412c86be1717e6a33664c41cffea.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Pocketbot» telegram bot",
+        "short_name": "@grzbot",
+        "description": "Pocketbot interact with your Pocket account. You can add and search for links and tags. Inline mode works like a charm.",
+        "avatar": "https://files-warehouse.com/files/of_bots/9b/9b8bdd12a9020230a23ca7a4b400ab42.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«solarmonitor» telegram bot",
+        "short_name": "@solarmonitorbot",
+        "description": "Developer: Ivan Piskliukov. Full-feature app: https://play.google.com/store/apps/details?id=com.solarmonitor",
+        "avatar": "https://files-warehouse.com/files/of_bots/da/dab71a5873a17d58be221ffb08ba78d5.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«LockBot» telegram bot",
+        "short_name": "@lockbot",
+        "description": "This bot will help you to lock and unlock files that only one person should handle at one time.",
+        "avatar": "https://files-warehouse.com/files/of_bots/82/82a2c3e1dd9ee0ca17167076f45a711d.jpg",
+        "subscribers": "1"
+      }
+    ],
+    [
+      {
+        "name": "«» telegram bot",
+        "short_name": "@myaddressbookbot",
+        "description": "Hi, I&apos;m MyAddressBookBot and i&apos;m your personal address book on Telegram.",
+        "avatar": "https://files-warehouse.com/files/of_bots/c3/c387ce83f2b01716b20a5413add8800b.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Spoilerbot» telegram bot",
+        "short_name": "@spoilobot",
+        "description": "For source code or any questions contact @gorcheque",
+        "avatar": "https://files-warehouse.com/files/of_bots/42/42ff66686a0918042c60a6e749a8e521.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«PunsBot» telegram bot",
+        "short_name": "@punsbot",
+        "description": "This bot let&apos;s you share funny puns with your friends. Just use @punsbot to get random puns.",
+        "avatar": "https://files-warehouse.com/files/of_bots/59/59e24f69ceb8bf67cc59251b237c65e8.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«IDownload» telegram bot",
+        "short_name": "@downloaderbot",
+        "description": "You can contact @downloaderbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/12/1201965bd36d98376eb5278018bd4422.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«TimeBot» telegram bot",
+        "short_name": "@nowtime_bot",
+        "description": "NowTime_Bot knows current time in each city all over the world!",
+        "avatar": "https://files-warehouse.com/files/of_bots/d5/d5cf964d37128f2d373b50a8a2d76e44.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«HTTP Speed Bot» telegram bot",
+        "short_name": "@httpspeedbot",
+        "description": "Speed test HTTP requests &#x1F525;",
+        "avatar": "https://files-warehouse.com/files/of_bots/6b/6b8ee295b7c494294073b27ee63b53dd.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@streetlocatorbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Justseed.it Bot» telegram bot",
+        "short_name": "@jsi_telebot",
+        "description": "Created by Ijat (Ijat.my)\nOfficial Link: ijat.my/justseedit_bot\nAny problems,feedback,etc, contact me at my website.",
+        "avatar": "https://files-warehouse.com/files/of_bots/41/411773d478bc454a51efe5c0ed92339f.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@mod_wallacebot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«OfferAggregator» telegram bot",
+        "short_name": "@offeraggregator_bot",
+        "description": "You can contact @offeraggregator_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/3f/3fec2004552322beb955e84313191c8e.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Snom XML-RPC» telegram bot",
+        "short_name": "@snom_xmlrpcbot",
+        "description": "I configure your Snom phones via Snom XML-RPC Service.",
+        "avatar": "https://files-warehouse.com/files/of_bots/38/389a82b6d0444e4aee131520b8b24b69.jpg",
+        "subscribers": "1"
+      }
+    ],
+    [
+      {
+        "name": "«Asante» telegram bot",
+        "short_name": "@dabbingbot",
+        "description": "You can contact @dabbingbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/08/08668d17b76c97a3003b6eed2af5a370.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Piano Chords» telegram bot",
+        "short_name": "@pchordbot",
+        "description": "This bot helps to display Piano Chords &#x1F3B9; specifying it as inline text: C# Major, BMin, Gbsus2 etc.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e0/e0f95b69678a87e3c8aefaa6b02054aa.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@streetlocatorbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Don’t Forget» telegram bot",
+        "short_name": "@dont_forget_bot",
+        "description": "&#x26A0;&#xFE0F;Create infinite reminder with own descriptions, time, weekdays and intervals. I will remind you!",
+        "avatar": "https://files-warehouse.com/files/of_bots/ad/ad933a9c662fb8b2c10925e707b2e7f0.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«stackoverflow bot» telegram bot",
+        "short_name": "@overflowstackbot",
+        "description": "I can find the answer for your programming question!\nComing soon...\n@NabiKAZ",
+        "avatar": "https://files-warehouse.com/files/of_bots/1c/1c314ee8053fb578f37c4fdd54ab04e6.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Shorten URL | ume.la» telegram bot",
+        "short_name": "@referbot",
+        "description": "I am a shorten URLs bot helping to create any URLs shorter and easy to share, based on ume.la shortener service.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f8/f805d8c523f448b57c14cb5865859a08.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@mod_wallacebot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Finery Investments» telegram bot",
+        "short_name": "@roboadvisorbot",
+        "description": "I am here to estimate your risk-profile and help you create a diversified investment portfolio.",
+        "avatar": "https://files-warehouse.com/files/of_bots/08/08748fdc8802c238c850e5adb85a8b31.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Uber promo» telegram bot",
+        "short_name": "@uberpromobot",
+        "description": "You can contact @uberpromobot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ec/ecee77d95631689a0f7a64c02db1f8e4.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Hackonn» telegram bot",
+        "short_name": "@hackonnbot",
+        "description": "You can contact @hackonnbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/66/6694a5943592ac73d594e62c00a9051f.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@hanismallbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      }
+    ],
+    [
+      {
+        "name": "«Nifty-bot» telegram bot",
+        "short_name": "@niftybot",
+        "description": "You can contact @niftybot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/92/92ce76f7c89ab5da6eed7075af7c06a8.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Public Transport Bot» telegram bot",
+        "short_name": "@pubtransbot",
+        "description": "This bot enables you to search for public transport connections all over the world.",
+        "avatar": "https://files-warehouse.com/files/of_bots/72/728b1e86f95cbcf17c97ead16de8e59a.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Nepho» telegram bot",
+        "short_name": "@nephobot",
+        "description": "I&apos;m Nepho and I&apos;m a cloud.",
+        "avatar": "https://files-warehouse.com/files/of_bots/cc/cc560d5524208d02a043a981ba02497c.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«AppFollow» telegram bot",
+        "short_name": "@appfollowbot",
+        "description": "AppFollowBot can discover the App Store and Google Play.",
+        "avatar": "https://files-warehouse.com/files/of_bots/87/87d4ec8ebdb9b7951930885840ae9b68.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@myuseridrobot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Justseed.it Bot» telegram bot",
+        "short_name": "@jsi_telebot",
+        "description": "Created by Ijat (Ijat.my)\nOfficial Link: ijat.my/justseedit_bot\nAny problems,feedback,etc, contact me at my website.",
+        "avatar": "https://files-warehouse.com/files/of_bots/41/411773d478bc454a51efe5c0ed92339f.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«ReverseBot» telegram bot",
+        "short_name": "@reverse_bot",
+        "description": "You can contact @reverse_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/21/2195f448e70255e55d913cd270a32945.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Cambodia Web Hosting» telegram bot",
+        "short_name": "@webhostingbot",
+        "description": "You can contact @webhostingbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/18/1826c037dd8a5b0827e3da2d40e5d9c4.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Snom XML-RPC» telegram bot",
+        "short_name": "@snom_xmlrpcbot",
+        "description": "I configure your Snom phones via Snom XML-RPC Service.",
+        "avatar": "https://files-warehouse.com/files/of_bots/38/389a82b6d0444e4aee131520b8b24b69.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«FindMeOnMapBot» telegram bot",
+        "short_name": "@findmeonmapbot",
+        "description": "This bot can show your location on map and the nearest underground stations",
+        "avatar": "https://files-warehouse.com/files/of_bots/71/7160897fef858f3230bd0ce9e8545ced.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«statsybot» telegram bot",
+        "short_name": "@statsybot",
+        "description": "You can contact @statsybot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/52/528cc51f9ac7b4a1cc3ea21c7a47b245.jpg",
+        "subscribers": "1"
+      }
+    ]
+  ],
+  "success": true
+}

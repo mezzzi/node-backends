@@ -1,0 +1,21 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "shoe": "0.0.15",
+    "sockjs-client": "^1.1.5",
+    "superagent": "^3.8.3",
+    "x-ray": "^2.3.3",
+    "x-ray-crawler": "^2.0.3",
+    "x-ray-phantom": "^1.0.1",
+    "x-ray-scraper": "^3.0.5"
+  }
+}

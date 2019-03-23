@@ -1,0 +1,4 @@
+there is a minor problem man:
+    . the message server is experiencing some delay,
+    what is the good of a chat up that doesn't show response
+    as soon as it is typed in? think about it man ...

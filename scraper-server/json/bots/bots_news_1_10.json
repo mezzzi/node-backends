@@ -1,0 +1,706 @@
+{
+  "data": [
+    [
+      {
+        "name": "«BBC International» telegram bot",
+        "short_name": "@bbcnewsbot",
+        "description": "Get Instant Headline from BBC International. With Page links to read more.",
+        "avatar": "https://files-warehouse.com/files/of_bots/6b/6b1bedb395883ee0b1348bb4f676ae1e.jpg",
+        "subscribers": "24"
+      },
+      {
+        "name": "«Onion News» telegram bot",
+        "short_name": "@tornews_bot",
+        "description": "You can contact @tornews_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/53/53c392fd52f648ed499e508e7092aea1.jpg",
+        "subscribers": "22"
+      },
+      {
+        "name": "«Ripple World News» telegram bot",
+        "short_name": "@ripple_world_news_bot",
+        "description": "You can contact @ripple_world_news_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/4b/4b5669de4e0480c757fb1846923a13a2.jpg",
+        "subscribers": "26"
+      },
+      {
+        "name": "«TheRSSBot» telegram bot",
+        "short_name": "@therssbot",
+        "description": "You can subscribe to RSS feed addresses and this bot will send the update every hour",
+        "avatar": "https://files-warehouse.com/files/of_bots/a3/a3e5d7863e0c92cb1fc6ef0e00299318.png",
+        "subscribers": "12"
+      },
+      {
+        "name": "«Feed Delivery» telegram bot",
+        "short_name": "@feeddelivery_bot",
+        "description": "Deliver RSS feeds as soon as possible to you. This is much easier than install other apps",
+        "avatar": "https://files-warehouse.com/files/of_bots/30/30db9d209b8d3e53cc0abbebc9b626df.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«NFL ON Telegram» telegram bot",
+        "short_name": "@nflontelegrambot",
+        "description": "Latest NFL News and updates!",
+        "avatar": "https://files-warehouse.com/files/of_bots/07/0728e8e2f832282f62aad71d80644f94.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«Amazon Deal of the Day» telegram bot",
+        "short_name": "@amazondealsbot",
+        "description": "This bot will find 1 awesome deal on amazon for a great product each day and will send it to you",
+        "avatar": "https://files-warehouse.com/files/of_bots/b2/b2509c4eec05ab783d86a756a2c96da4.jpg",
+        "subscribers": "8"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@cosmopolitan_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "10"
+      },
+      {
+        "name": "«r/Conspiracies» telegram bot",
+        "short_name": "@conspiracybot",
+        "description": "You can contact @conspiracybot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/78/78599a2f7164f58c281309ed0948b20d.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«The Economist» telegram bot",
+        "short_name": "@theeconomistbot",
+        "description": "You can contact @theeconomistbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/42/4255cbe00b4182a213e90572cc2bc810.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Wall Street Journal» telegram bot",
+        "short_name": "@wallstreetjournalbot",
+        "description": "Get news and articles from The Wall Street Journal.",
+        "avatar": "https://files-warehouse.com/files/of_bots/57/57aabb2392cbd86f186a501e2ea0ffc4.jpg",
+        "subscribers": "5"
+      }
+    ],
+    [
+      {
+        "name": "«Famous Quotes» telegram bot",
+        "short_name": "@famousquotesbot",
+        "description": "Famous Quotes !",
+        "avatar": "https://files-warehouse.com/files/of_bots/3a/3a93dc1c353b7a254e7b09ca18826cf5.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«TamilNews» telegram bot",
+        "short_name": "@tamilnews_bot",
+        "description": "You can contact @tamilnews_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/57/57edb52e9de30eb73c2a9baed7ea2840.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@buzzfeed_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Engadget» telegram bot",
+        "short_name": "@engadgetbot",
+        "description": "Technology News, Advice and Features",
+        "avatar": "https://files-warehouse.com/files/of_bots/16/16d39cb09ab2623e3a46d46d4516cac6.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Pizzagate bot» telegram bot",
+        "short_name": "@pizzagatebot",
+        "description": "RSS updates from voat.co/v/pizzagate. An ongoing investigation into corruption, child trafficking and pedophillia.",
+        "avatar": "https://files-warehouse.com/files/of_bots/21/216c1c06e4766bd7fd1edc0cb8bf0606.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@losangelestimesbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Vice» telegram bot",
+        "short_name": "@vice_bot",
+        "description": "You can contact @vice_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/56/56fa2968cd114833a600baeaf2fd1db4.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Russia Today» telegram bot",
+        "short_name": "@russia_today_bot",
+        "description": "Russia Today News in English",
+        "avatar": "https://files-warehouse.com/files/of_bots/9a/9a94d7242020852e1eaf1ec017895ebb.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Feed Reader Bot» telegram bot",
+        "short_name": "@thefeedreaderbot",
+        "description": "Feed Reader Bot monitors websites, Facebook/Youtube/Twitter accounts, and sends messages when new posts are made.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a9/a936b872862d747aed0c4b3b2120e1ed.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Hacker News» telegram bot",
+        "short_name": "@hackernewsbot",
+        "description": "Hello! &#x1F916; I&apos;m your Hacker News feed reader for Telegram. See new and hot posts. Search, and filter by AskHN and ShowHN.",
+        "avatar": "https://files-warehouse.com/files/of_bots/26/26a0476fa6649b1ecfdd797fbc7fa465.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«ESPN» telegram bot",
+        "short_name": "@espn_bot",
+        "description": "Get news and articles from ESPN.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ae/aea86cdbab5f48b97af94412f8813fda.jpg",
+        "subscribers": "3"
+      }
+    ],
+    [
+      {
+        "name": "«Barcastuff» telegram bot",
+        "short_name": "@barcastuff_bot",
+        "description": "FCBarcelona",
+        "avatar": "https://files-warehouse.com/files/of_bots/4a/4abee73f1be377ec8a622eb00f115a79.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@techcrunch_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "3"
+      },
+      {
+        "name": "«AIR» telegram bot",
+        "short_name": "@echofeedbot",
+        "description": "[Unofficial] This bot will give you news update from ALL INDIA RADIO",
+        "avatar": "https://files-warehouse.com/files/of_bots/8c/8c35cc2dcdb875616d84cf47fdbb27c6.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«NHLNews» telegram bot",
+        "short_name": "@nhlnews_bot",
+        "description": "You can contact @nhlnews_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f3/f338d9d317cb4ae216bbe9704338ec10.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«StockAlert» telegram bot",
+        "short_name": "@stockalertbot",
+        "description": "You can contact @stockalertbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/78/780794ed708b1a538f4d6bf32a1413df.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«sellergiftcard💸» telegram bot",
+        "short_name": "@amazonprimebot",
+        "description": "sell gift card",
+        "avatar": "https://files-warehouse.com/files/of_bots/c0/c03d2cef0d1dfee1efe3a480051f5526.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Life is good!» telegram bot",
+        "short_name": "@pressnews_bot",
+        "description": "Just enjoy the life",
+        "avatar": "https://files-warehouse.com/files/of_bots/f2/f278a6766253b4da3c1ce4c1c1bfe557.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«தமிழ் செய்திகள்» telegram bot",
+        "short_name": "@tamilnewsbot",
+        "description": "&#xB89;&#xBB2;&#xB95; &#xBA8;&#xB9F;&#xBAA;&#xBCD;&#xBAA;&#xBC1;&#xB95;&#xBB3;&#xBCD; &#xB89;&#xB9F;&#xBA9;&#xBC1;&#xB95;&#xBCD;&#xB95;&#xBC1;&#xB9F;&#xBA9;&#xBCD;,\n&#xBA8;&#xBAE;&#xBA4;&#xBC1; &#xBAE;&#xBCA;&#xBB4;&#xBBF;&#xBAF;&#xBBF;&#xBB2;&#xBCD;.",
+        "avatar": "https://files-warehouse.com/files/of_bots/1b/1b82281e253fdb477f99e8c419ddce33.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@newyorkpostbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«The Washington Post» telegram bot",
+        "short_name": "@thewashingtonpostbot",
+        "description": "Get news and articles from The Washington Post.",
+        "avatar": "https://files-warehouse.com/files/of_bots/da/da1858151995cfe08be1a4fedd57a687.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Bots4Telegram Bot» telegram bot",
+        "short_name": "@b4tbot",
+        "description": "This bot will provide you info and news about Bots for Telegram. Web:http://botsfortelegram.com Contact:@Bots4Telegram",
+        "avatar": "https://files-warehouse.com/files/of_bots/e6/e64188d7e62e7be0e8fc598bc2fbe5c4.jpg",
+        "subscribers": "2"
+      }
+    ],
+    [
+      {
+        "name": "«Ccnews» telegram bot",
+        "short_name": "@ccnewsbot",
+        "description": "You can contact @ccnewsbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ad/ad73784f0555f4569c5abeed4c345733.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@womenshealthbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Engadget» telegram bot",
+        "short_name": "@engadget_bot",
+        "description": "You can contact @engadget_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/41/41b7576086b56e314e0d34357a73f7c9.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«RT News» telegram bot",
+        "short_name": "@rt_news_bot",
+        "description": "RT News brings you the latest breaking news from around the globe.",
+        "avatar": "https://files-warehouse.com/files/of_bots/75/7519c33c36c30fc978fe09858310fedf.jpg",
+        "subscribers": "2"
+      },
+      {
+        "name": "«Unofficial CNN Breaking News Bot» telegram bot",
+        "short_name": "@ucnnbnbot",
+        "description": "You can contact @ucnnbnbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ba/ba7362e5ea8b7c0676d29642caaa9871.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Gr33n4rr0w» telegram bot",
+        "short_name": "@greenarrow_bot",
+        "description": "This bot is about having funn...",
+        "avatar": "https://files-warehouse.com/files/of_bots/51/512580a25c9fcbb5c66494b369224f00.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Caaaaaars!!» telegram bot",
+        "short_name": "@thecarbot",
+        "description": "This bot will send car news from all around the internet for all you fellow petrolheads! &#x1F697;&#x1F698;&#x1F697;",
+        "avatar": "https://files-warehouse.com/files/of_bots/b7/b7d88fd2281963eac75580d95ec1da6c.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«ReadMe» telegram bot",
+        "short_name": "@readmebot",
+        "description": "You can contact @readmebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/aa/aa8d383c6802e70ff1f5acbbd1a627ea.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Swiss news» telegram bot",
+        "short_name": "@swiss_news_bot",
+        "description": "You can contact @swiss_news_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2e/2e903463c985b832c7ddce70939d15d5.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«KHL_English» telegram bot",
+        "short_name": "@khl_bot",
+        "description": "Bringing you transactions, scores, and more from Europe&apos;s top hockey league. Not affiliated with the KHL.",
+        "avatar": "https://files-warehouse.com/files/of_bots/75/750319c08649f8ea0b8b585671db6e72.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«News» telegram bot",
+        "short_name": "@newsrbot",
+        "description": "You can contact @newsrbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ef/ef7d4a5a9d38e2c271dd18036c220842.png",
+        "subscribers": "1"
+      }
+    ],
+    [
+      {
+        "name": "«The New York Times» telegram bot",
+        "short_name": "@nytimesbot",
+        "description": "Not active at the moment.\nYou can find dozens of great bots and channels (and contact me) at:\n@GuideRobot!",
+        "avatar": "https://files-warehouse.com/files/of_bots/33/33ee84459c94b6382b992ce6d2ae32ed.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«The New York Times» telegram bot",
+        "short_name": "@thenewyorktimesbot",
+        "description": "Get news and articles from The New York Times.",
+        "avatar": "https://files-warehouse.com/files/of_bots/8e/8e025d23a0b546032d6cf5f32d84caf5.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«TechCrunch News» telegram bot",
+        "short_name": "@techcrunchrobot",
+        "description": "TechCrunch is a leading technology media property, dedicated to obsessively profiling startups, reviewing new Internet.",
+        "avatar": "https://files-warehouse.com/files/of_bots/45/455f862a709d0f1a1c046d6eae178811.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«News» telegram bot",
+        "short_name": "@newsrbot",
+        "description": "You can contact @newsrbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ef/ef7d4a5a9d38e2c271dd18036c220842.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Cricket Live» telegram bot",
+        "short_name": "@cskbot",
+        "description": "You can contact @cskbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/8c/8c76e443556a3fcc5688c67177710cf9.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@wootbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Slate» telegram bot",
+        "short_name": "@slatebot",
+        "description": "You can contact @slatebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/bf/bf950e73b646d28c2b489317c6750158.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«AlJazeera» telegram bot",
+        "short_name": "@aljazeera_bot",
+        "description": "You can contact @aljazeera_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/9b/9bd6a3465f19359ba36c65ba3210a952.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«Lifehacker News» telegram bot",
+        "short_name": "@lifehackernewsbot",
+        "description": "Don&apos;t live to geek; geek to live.",
+        "avatar": "https://files-warehouse.com/files/of_bots/9a/9a4adbd37c22513e084ee68601fc225c.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«WIRED» telegram bot",
+        "short_name": "@wired_bot",
+        "description": "You can contact @wired_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/1a/1a4c646e343dbab1d363d69f532c7e1a.jpg",
+        "subscribers": "1"
+      },
+      {
+        "name": "«My Utmost for His Highest» telegram bot",
+        "short_name": "@utmost_bot",
+        "description": "Get daily devotionals from the classic My Utmost for His Highest by Oswald Chambers :)",
+        "avatar": "https://files-warehouse.com/files/of_bots/67/674e964d505f3556b1737efaa23cd570.jpg",
+        "subscribers": "1"
+      }
+    ],
+    [
+      {
+        "name": "«cricinfo» telegram bot",
+        "short_name": "@cricinfo_news_bot",
+        "description": "You can contact @cricinfo_news_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/0b/0b50622824cf097a0b06c4c477de9986.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«EUwatch» telegram bot",
+        "short_name": "@euwbot",
+        "description": "You can contact @euwbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d1/d1a37b41c109593e8dda814ce1e39e0c.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@rssupdatebot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«BitcoinRss» telegram bot",
+        "short_name": "@bitcoinrssbot",
+        "description": "You can contact @bitcoinrssbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2e/2ec25d9983596a9f50af257d9ad4fdb9.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@gamenewsrssbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«SneakerBits» telegram bot",
+        "short_name": "@sneakerbits_bot",
+        "description": "Bits is a sneakerhead that&#x2019;s going to share with you a selection with the best articles in the sneaker&#x2019;s world.",
+        "avatar": "https://files-warehouse.com/files/of_bots/1f/1fcb3f01e92dcb6fd3fdcbfee49aaf7d.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@samiz_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@organicindiabot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«🇬🇧NewsMaster🇬🇧» telegram bot",
+        "short_name": "@destinynewseng_bot",
+        "description": "Get Destiny News as soon as they come out and search for them on the fly!",
+        "avatar": "https://files-warehouse.com/files/of_bots/81/81ec283f655dc79b7f0351eb595828b8.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«SR_BOT» telegram bot",
+        "short_name": "@sr_bot",
+        "description": "&#x62C;&#x62F;&#x6CC;&#x62F;&#x62A;&#x631;&#x6CC;&#x646; &#x628;&#x631;&#x646;&#x627;&#x645;&#x647; &#x647;&#x627;&#x6CC; &#x67E;&#x648;&#x644;&#x6CC; &#x628;&#x627;&#x632;&#x627;&#x631; &#x648; &#x6AF;&#x648;&#x6AF;&#x644; &#x67E;&#x644;&#x6CC;, &#x631;&#x627;&#x6CC;&#x6AF;&#x627;&#x646; &#x62F;&#x631; &#x627;&#x62E;&#x62A;&#x6CC;&#x627;&#x631; &#x634;&#x645;&#x627;. &#x62E;&#x648;&#x627;&#x647;&#x634;&#x627; &#x62F;&#x631; &#x6AF;&#x631;&#x648;&#x647; &#x647;&#x627;&#x6CC; &#x62E;&#x648;&#x62F; &#x646;&#x6CC;&#x632; &#x627;&#x62F;&#x62F; &#x6A9;&#x646;&#x6CC;&#x62F;, &#x628;&#x627; &#x62A;&#x634;&#x6A9;&#x631;.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a8/a82f2c1520f3df1a0005124283ffc908.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@thenytimesbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      }
+    ],
+    [
+      {
+        "name": "«SKY News» telegram bot",
+        "short_name": "@skynewsbot",
+        "description": "we have moved &#x27A1;&#xFE0F; @sky_news Add this bot to your group to recieve the news there.",
+        "avatar": "https://files-warehouse.com/files/of_bots/0c/0cc7607c3641ced1084858d7e77b7987.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«Tweakers.net» telegram bot",
+        "short_name": "@tweakersnet_bot",
+        "description": "RSS Feeds van Tweakers.net",
+        "avatar": "https://files-warehouse.com/files/of_bots/9f/9f2e6d3b81247051b40bd114a248ff86.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@timedotcombot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«sach Times» telegram bot",
+        "short_name": "@sachtimesbot",
+        "description": "You can contact @sachtimesbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ff/ff88494030b1eaa64b85bb6fad3bd0f2.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@agariothingsbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«USA Today» telegram bot",
+        "short_name": "@usatoday_bot",
+        "description": "Get news and articles from USA Today.",
+        "avatar": "https://files-warehouse.com/files/of_bots/05/0558a2ec19969db7a80b2f9b3e194736.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«Yeshiva World News» telegram bot",
+        "short_name": "@ywnbot",
+        "description": "You can contact @ywnbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e1/e1c06e6ce68c6cc9008a0edd6eddcb40.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«M.A.T» telegram bot",
+        "short_name": "@matechbot",
+        "description": "You can contact @matechbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/6e/6eedf3d1bcb85c00a13075a10386695f.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«The Mechanical Leo» telegram bot",
+        "short_name": "@chieftwitbot",
+        "description": "A mechanical Leo Laporte that pushes a message whenever Leo publishes new content.",
+        "avatar": "https://files-warehouse.com/files/of_bots/de/deb847b70309bc265162c72154f32622.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@vanityfairbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«Breaking News» telegram bot",
+        "short_name": "@breakingnewsbot",
+        "description": "Breaking news from reporters and editors on the CNN Digital news team.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a4/a4389cb6fe29cfbe396997e69a973aec.jpg",
+        "subscribers": "0"
+      }
+    ],
+    [
+      {
+        "name": "«» telegram bot",
+        "short_name": "@nerdreactorbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@elle_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@tagworthytechbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«FOSS News bot» telegram bot",
+        "short_name": "@fossnewsbot",
+        "description": "FOSS News bot is an AGPL bot bringing you updates from the free software world. It has a very simple interface.",
+        "avatar": "https://files-warehouse.com/files/of_bots/1e/1e2097f13785c7d8a0226d5a4b2e11ae.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@foxnews_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«VentureBeat» telegram bot",
+        "short_name": "@venturebeatbot",
+        "description": "Get news and articles from VentureBeat.",
+        "avatar": "https://files-warehouse.com/files/of_bots/85/85f2cf495600efce611d3a7351d37c0a.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«Sunny» telegram bot",
+        "short_name": "@thesunbot",
+        "description": "You can contact @thesunbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/41/413973f8b4e71a5b887ac612e7d15566.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«Market Watch» telegram bot",
+        "short_name": "@marketwatchbot",
+        "description": "You can contact @marketwatchbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/b0/b034563493a1c2a28a858e3c9ed9f49c.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@thedailymailbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@gameinformerbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@fastcompanybot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      }
+    ],
+    [
+      {
+        "name": "«» telegram bot",
+        "short_name": "@huffingtonpost_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@quartzbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«Entrepreneurs» telegram bot",
+        "short_name": "@entrepreneurs_bot",
+        "description": "You can contact @entrepreneurs_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/a2/a2f95ca1fd38f4d3ab9e1d7db94fb2d3.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«Baron H.R» telegram bot",
+        "short_name": "@jewish_bot",
+        "description": "You can contact @jewish_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ca/ca57bb94f49e0f6aa95e472112461b51.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«AHP News Bot» telegram bot",
+        "short_name": "@ahpnewsbot",
+        "description": "View the hottest and newest headlines of most popular news websites as soon as they are put on the web!",
+        "avatar": "https://files-warehouse.com/files/of_bots/2f/2f1931e21ed76d78aa5a5287517e679d.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«WinBeta Bot» telegram bot",
+        "short_name": "@winbetabot",
+        "description": "Unofficial bot for WinBeta.org.",
+        "avatar": "https://files-warehouse.com/files/of_bots/2e/2e99a5b67bf8b68631064840ebef2151.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«حذف کن» telegram bot",
+        "short_name": "@asaabot",
+        "description": "You can contact @asaabot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/88/8896d5644fe3bcdebead3a3d2ef8ec4c.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@android_news_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«BarçaMania bot» telegram bot",
+        "short_name": "@barca_bot",
+        "description": "Bar&#xE7;aMania bot-&#x43F;&#x435;&#x440;&#x432;&#x44B;&#x439; &#x438; &#x43E;&#x444;&#x438;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x431;&#x43E;&#x442; &#x43A;&#x43B;&#x443;&#x431;&#x430; &#x424;&#x41A; &#x411;&#x410;&#x420;&#x421;&#x415;&#x41B;&#x41E;&#x41D;&#x410; &#x432; &#x423;&#x437;&#x431;&#x435;&#x43A;&#x438;&#x441;&#x442;&#x430;&#x43D;&#x435;",
+        "avatar": "https://files-warehouse.com/files/of_bots/8f/8f61e1dd8b3be9bdff442e1caa2d6636.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«@LudoBot» telegram bot",
+        "short_name": "@LudoBot&#xBB; telegram bot<h3></h3></a>@ludobot",
+        "description": "A simple bot to ask for stock quotes and charts. Source on https://github.com/ludoo/ludobot",
+        "avatar": "https://files-warehouse.com/files/of_bots/e5/e55462d3df35de8e755700cda4b56916.png",
+        "subscribers": "0"
+      },
+      {
+        "name": "«hnbot» telegram bot",
+        "short_name": "@hnbot",
+        "description": "You can contact @hnbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ca/ca5a4dc3d3478006c75145b9f0c5f420.png",
+        "subscribers": "0"
+      }
+    ],
+    [
+      {
+        "name": "«MKBHD» telegram bot",
+        "short_name": "@mkbhd_bot",
+        "description": "All news about MKBHD",
+        "avatar": "https://files-warehouse.com/files/of_bots/68/6884a961736b57f161223cf9acca2057.jpg",
+        "subscribers": "0"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@tickerbtc_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "0"
+      }
+    ]
+  ],
+  "success": true
+}

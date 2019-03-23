@@ -1,0 +1,473 @@
+{
+  "data": [
+    [
+      {
+        "name": "«TriviaBot» telegram bot",
+        "short_name": "@triviabot",
+        "description": "This bot allows you to test your trivia knowledge. Add it to groups if you&apos;d like to compete with friends.",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/03/trivia-bot.png",
+        "subscribers": "174"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@cclickerbot",
+        "description": "Cookie clicker ported to Telegram.",
+        "avatar": "https://files-warehouse.com/files/of_bots/db/db8a758b0b91f13fe9b60cf2ab42b094.jpg",
+        "subscribers": "51"
+      },
+      {
+        "name": "«Spin The Bottle» telegram bot",
+        "short_name": "@spinthebottlebot",
+        "description": "You can contact @spinthebottlebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/6a/6afb46d8aa497c1e8d66c1d8c14af633.jpg",
+        "subscribers": "46"
+      },
+      {
+        "name": "«888 Poker» telegram bot",
+        "short_name": "@pokertripleeight_bot",
+        "description": "You can contact @pokertripleeight_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ab/abc3998a2abbffc23bc3af51323250e0.jpg",
+        "subscribers": "35"
+      },
+      {
+        "name": "«RPG-Dice» telegram bot",
+        "short_name": "@rpg_dice_bot",
+        "description": "Trully random RPG Dice Bot. The randomness comes from atmospheric noise using Random.org API.",
+        "avatar": "https://files-warehouse.com/files/of_bots/6a/6a1a226fbeb1999794d994f34c6277c9.jpg",
+        "subscribers": "31"
+      },
+      {
+        "name": "«pc games» telegram bot",
+        "short_name": "@pcgames_bot",
+        "description": "PC game updates",
+        "avatar": "https://files-warehouse.com/files/of_bots/cd/cd32fa81c7a72b707289b57e837e32c4.jpg",
+        "subscribers": "16"
+      },
+      {
+        "name": "«Pokemon Go» telegram bot",
+        "short_name": "@pokemongo_main_bot",
+        "description": "Subscribe, install game via this bot and recieve bonuses! Awesome offer!",
+        "avatar": "https://files-warehouse.com/files/of_bots/e8/e898f7e10bd3f07076fbaabcb592d180.jpg",
+        "subscribers": "19"
+      },
+      {
+        "name": "«Truth or Dare Game» telegram bot",
+        "short_name": "@truth_dare_bot",
+        "description": "Choose Truth Or Dare\nAnswer Truth Or Do Some Works, Share It anonymously in channel",
+        "avatar": "https://files-warehouse.com/files/of_bots/21/21c1598c5a39fc5d178beb42963f3088.jpg",
+        "subscribers": "22"
+      },
+      {
+        "name": "«😍GIVEAWAY😍👍😉REAL👈» telegram bot",
+        "short_name": "@googlecardbot",
+        "description": "You can contact @googlecardbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/54/54bd86bafa99e6c5dd249163d6b58ab1.png",
+        "subscribers": "17"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@clashroyaletourneybot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "11"
+      },
+      {
+        "name": "«Interactive fiction» telegram bot",
+        "short_name": "@ifictionbot",
+        "description": "You can contact @ifictionbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/78/78e3982b7af7789b66e714b2c02c41e6.jpg",
+        "subscribers": "14"
+      }
+    ],
+    [
+      {
+        "name": "«Colossal Cave» telegram bot",
+        "short_name": "@cavebot",
+        "description": "The first version was designed by Will Crowther, a prog-r and caving enthusiast, this version by @hudbrog and @chumakov",
+        "avatar": "https://files-warehouse.com/files/of_bots/5b/5be12fad35919b834b36c2f1986052c6.jpg",
+        "subscribers": "12"
+      },
+      {
+        "name": "«Chess Bot» telegram bot",
+        "short_name": "@chessbot",
+        "description": "Play chess with Chess Bot!",
+        "avatar": "https://files-warehouse.com/files/of_bots/5b/5b962d167792c38a028c1cc60388e5ea.jpg",
+        "subscribers": "10"
+      },
+      {
+        "name": "«Multiplayer TicTacToe» telegram bot",
+        "short_name": "@mptictactoe_bot",
+        "description": "Everyone chatting with this bot participates in playing 1 Tic Tac Toe game!",
+        "avatar": "https://files-warehouse.com/files/of_bots/26/2665637d3837d8cd8c3e282536125dd6.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«MicroGames» telegram bot",
+        "short_name": "@microgamesbot",
+        "description": "MicroGames for MegaFun",
+        "avatar": "https://files-warehouse.com/files/of_bots/58/58692513e20ee75d3f557f109a3617ac.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Ubisoft» telegram bot",
+        "short_name": "@ubisoft_bot",
+        "description": "You can contact @ubisoft_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/98/980e554f62485292865cd0d346d8cd90.png",
+        "subscribers": "10"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@rxobot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "12"
+      },
+      {
+        "name": "«Rock Paper Scissors» telegram bot",
+        "short_name": "@rpsrobot",
+        "description": "Rock, paper or scissors? Try to win!",
+        "avatar": "https://files-warehouse.com/files/of_bots/4a/4af2675c44d866f311a27ab0c062aafa.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«Truth or Dare» telegram bot",
+        "short_name": "@truthordaregamebot",
+        "description": "Truth or Dare, how far are you willing to go to prove yourself to your friends? (+18)",
+        "avatar": "https://files-warehouse.com/files/of_bots/f8/f8a0324caa13d5f0435e7282d7f60fc7.jpg",
+        "subscribers": "9"
+      },
+      {
+        "name": "«Pokémon Go Map» telegram bot",
+        "short_name": "@pkmngomapbot",
+        "description": "Will send you a map of the given area with nearby pokemon.\nI&apos;m very slow, please be patient!",
+        "avatar": "https://files-warehouse.com/files/of_bots/ea/eac5c25f7b1ca6daa342d1db37376b92.jpg",
+        "subscribers": "10"
+      },
+      {
+        "name": "«Pokémon Go Bot» telegram bot",
+        "short_name": "@pkmngobot",
+        "description": "My Pok&#xE9;mon go bot",
+        "avatar": "https://files-warehouse.com/files/of_bots/67/674849d9ff84e7613ec006447d985e69.jpg",
+        "subscribers": "8"
+      },
+      {
+        "name": "«Pokemon Go» telegram bot",
+        "short_name": "@awsomenbot",
+        "description": "You can contact @awsomenbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/88/885dccfe96a6bcd896a38bddff6d0846.jpg",
+        "subscribers": "6"
+      }
+    ],
+    [
+      {
+        "name": "«Secret Hitler Moderator» telegram bot",
+        "short_name": "@thesecrethitlerbot",
+        "description": "This bot acts as a moderator for the card game Secret Hitler by Max Temkin",
+        "avatar": "https://files-warehouse.com/files/of_bots/7d/7d69dd3e70b3e54923f0f5eb09f00144.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@ps4newsbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "8"
+      },
+      {
+        "name": "«TIPSTARZ🎲bot» telegram bot",
+        "short_name": "@tipstarzbot",
+        "description": "You can contact @tipstarzbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/b8/b8f166332713df8b7a6fe056cf933809.png",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Tic Tac Toe game» telegram bot",
+        "short_name": "@tictoetac_bot",
+        "description": "Tic Tac Toe game bot, via the inline keyboard",
+        "avatar": "https://files-warehouse.com/files/of_bots/00/0081e8998478bd371c51e0f1efd71b19.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«hltv» telegram bot",
+        "short_name": "@hltv_org_bot",
+        "description": "You can contact @hltv_org_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/b7/b7a6844cd54d1747c9ca584af6132c08.jpg",
+        "subscribers": "7"
+      },
+      {
+        "name": "«Heads or Tails» telegram bot",
+        "short_name": "@headortailbot",
+        "description": "A bot that tosses a coin for your indecision. Heads or Tails?",
+        "avatar": "https://files-warehouse.com/files/of_bots/6e/6ebcb2d40f0ab3b6a71eef9ed9674d52.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«Gambling & Gaming Bot» telegram bot",
+        "short_name": "@gamblegamesbot",
+        "description": "You can contact @gamblegamesbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d8/d80cddf2b05f5ceb822344d95dc22ec2.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«AndroGaмєr Bot» telegram bot",
+        "short_name": "@androgamer_bot",
+        "description": "Android Games &amp; Cracked Apps for free... &#x1F3AE; &#x1F4AF;\n&#x1F4E2; Join Our Channel @AndroGamers",
+        "avatar": "https://files-warehouse.com/files/of_bots/a1/a1b923570220d9d1b613c37ed8ab1bf1.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Truth or dare bot» telegram bot",
+        "short_name": "@todgame_bot",
+        "description": "Telegram &quot;Truth or dare&quot; game bot!\nCompatible with groups!",
+        "avatar": "https://files-warehouse.com/files/of_bots/90/900753fa8ba75729a76da69e5105b25c.jpg",
+        "subscribers": "6"
+      },
+      {
+        "name": "«XboxGamesWithGold» telegram bot",
+        "short_name": "@xboxgameswithgoldbot",
+        "description": "You can contact @xboxgameswithgoldbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/60/60ed6e6dd734f9f2ab37aaacb4e00c66.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Dungeon bot» telegram bot",
+        "short_name": "@dungeoncrawlerbot",
+        "description": "You can contact @dungeoncrawlerbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/c8/c8c5d84f68db565cbbccce83bf0e00e4.jpg",
+        "subscribers": "5"
+      }
+    ],
+    [
+      {
+        "name": "«PokeSniper» telegram bot",
+        "short_name": "@pokesniper_bot",
+        "description": "PokeSniper bot will help you to catch&apos;em all by sending you spawn locations in Pok&#xE9;mon Go.",
+        "avatar": "https://files-warehouse.com/files/of_bots/05/05316c481661f8ad131545c47cd07950.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«Robo-TechByte» telegram bot",
+        "short_name": "@techbyte_bot",
+        "description": "Get all your favorite games, apps, movies, series and music all here.\nBot by @RomLEN",
+        "avatar": "https://files-warehouse.com/files/of_bots/6a/6ae2e83b611ad91a8a6214dc397260d3.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Animal Game» telegram bot",
+        "short_name": "@animalgamebot",
+        "description": "&#x1F4BB; Developed By @Siyanew\n&#x1F496; Special Thanks to:\n&#x1F539;@Digression (English Translation)\n&#x1F916; Other Bots:\n&#x1F539;@Siarobot\n&#x1F539;@Textojibot",
+        "avatar": "https://files-warehouse.com/files/of_bots/ce/ce6565f2d1e9e69a7021b7ddf720e93c.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Classic Snake 🐍» telegram bot",
+        "short_name": "@classicsnakebot",
+        "description": "You can contact @classicsnakebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ac/ac678a88c1895f5165264f1062c9e2c4.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«The Village» telegram bot",
+        "short_name": "@the_village_bot",
+        "description": "Try to survive against other players and superior them all! ~ The Village ~",
+        "avatar": "https://files-warehouse.com/files/of_bots/9b/9b01cfb69223ae5a47b6aaecae38ce5c.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Connect 4» telegram bot",
+        "short_name": "@connect_four_bot",
+        "description": "You can contact @connect_four_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/71/711023f308c917ff5f004933848048b5.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«REVERSI» telegram bot",
+        "short_name": "@reversi_bot",
+        "description": "Reversi is the best board game for telegram. New version will come soon with a lot of improvements.",
+        "avatar": "https://files-warehouse.com/files/of_bots/24/2415765b8a9da2501a606edc37d71fc0.jpg",
+        "subscribers": "5"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@mmcus_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "4"
+      },
+      {
+        "name": "«QuestagBot» telegram bot",
+        "short_name": "@questagbot",
+        "description": "You see 4 pictures. Guess which tag all this pictures have.",
+        "avatar": "https://files-warehouse.com/files/of_bots/c7/c7ac1449571ef19d891ba1b0708c4e98.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«sgGames» telegram bot",
+        "short_name": "@sggamesbot",
+        "description": "You can contact @sggamesbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/f4/f464b1ec3f6f3891ce8badb8a39e18d7.png",
+        "subscribers": "3"
+      },
+      {
+        "name": "«LH Games» telegram bot",
+        "short_name": "@lhgamesbot",
+        "description": "You can contact @lhgamesbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/83/831eb905980b84f464d84adf8ebbbcd4.jpg",
+        "subscribers": "3"
+      }
+    ],
+    [
+      {
+        "name": "«» telegram bot",
+        "short_name": "@apkworldfeedbot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "3"
+      },
+      {
+        "name": "«GameGuesser» telegram bot",
+        "short_name": "@gameguesserbot",
+        "description": "Video Game Trivia - Guess The Game by looking at screenshots",
+        "avatar": "https://files-warehouse.com/files/of_bots/7a/7a73697e024855ab3b8339a2f12ac8ca.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Village Game – Tips and Tricks» telegram bot",
+        "short_name": "@villagegametrickandtips_bot",
+        "description": "You can contact @villagegametrickandtips_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/55/5523ca36ae581b06b76207a4726833f8.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«AndroidFun» telegram bot",
+        "short_name": "@androidfunbot",
+        "description": "You can contact @androidfunbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/67/67eabb74003b8294d0551f072b2ffe49.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Hangman» telegram bot",
+        "short_name": "@wordguess_bot",
+        "description": "You can contact @wordguess_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/99/99c09b248529f6fb717c1e06c25de35f.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«PokemonGo_official» telegram bot",
+        "short_name": "@pokemongo_official_bot",
+        "description": "You can contact @pokemongo_official_bot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/eb/eb88ace9a3de94414a4ad4d1ac30d3b0.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Rock paper scissor» telegram bot",
+        "short_name": "@rock_paper_scissor_bot",
+        "description": "This is a bot which allows you to play rock&#x1F330; paper&#x1F4C4; scissor&#x2702;&#xFE0F; game...",
+        "avatar": "https://files-warehouse.com/files/of_bots/b7/b7f0f0fe632cab6777183e5ed87162e8.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Exile Bot» telegram bot",
+        "short_name": "@pathofexilebot",
+        "description": "You can contact @pathofexilebot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/ae/aee82add4a763fa766c6be51f188c517.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Super Game Bot» telegram bot",
+        "short_name": "@supergamebot",
+        "description": "Under development",
+        "avatar": "https://files-warehouse.com/files/of_bots/72/723ea07bd549e0e8f0ef0b8475a90bb4.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«PokeMapGoBot» telegram bot",
+        "short_name": "@pokemapgobot",
+        "description": "You can contact @pokemapgobot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/47/4721d80d91296f1c6452af4f08b5e442.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«» telegram bot",
+        "short_name": "@guess_a_number_bot",
+        "avatar": "https://telegram-store.com/wp-content/uploads/2017/07/empty-bot.png",
+        "subscribers": "3"
+      }
+    ],
+    [
+      {
+        "name": "«Planetside 2 Bot» telegram bot",
+        "short_name": "@planetside2_bot",
+        "description": "All about Planetside 2 in your Telegram: news, alerts, videos",
+        "avatar": "https://files-warehouse.com/files/of_bots/6e/6e71e788bcd9173ea29364edb219da63.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Gamebot» telegram bot",
+        "short_name": "@kidbot",
+        "description": "You can contact @kidbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/5c/5cabe46706fc7be3e5944c70db2d481d.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Guess The Songs Bot» telegram bot",
+        "short_name": "@guessthesongsbot",
+        "description": "How good is your music knowledge? Play now with our Guess the songs bot. The faster you answer, the higher your score.",
+        "avatar": "https://files-warehouse.com/files/of_bots/e9/e9a1ba56d03049440f405eb679b22a2b.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«BrainsBot» telegram bot",
+        "short_name": "@brainsbot",
+        "description": "This bot will help you to get smarter! &#x1F60C; Spend 5 minutes a day to improve your ability to count numbers! &#x1F44D;",
+        "avatar": "https://files-warehouse.com/files/of_bots/2c/2cdb19c375f21ce95ab7c5febd065ce4.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«REVERSI» telegram bot",
+        "short_name": "@reversi_bot",
+        "description": "Reversi is the best board game for telegram. New version will come soon with a lot of improvements.",
+        "avatar": "https://files-warehouse.com/files/of_bots/24/2415765b8a9da2501a606edc37d71fc0.jpg",
+        "subscribers": "4"
+      },
+      {
+        "name": "«Gamee» telegram bot",
+        "short_name": "@gamee",
+        "description": "The best games on Telegram! &#x2764;&#xFE0F;\nPick a game and challenge your friends &#x1F4AA;",
+        "avatar": "https://files-warehouse.com/files/of_bots/0f/0f1a27bd2fbc8d0136a84891f27ec7b1.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Hello Stranger 2» telegram bot",
+        "short_name": "@txtgamebot",
+        "description": "Absorbing online text quest! Rescue Alice by giving the right answers. 1st part: @PlayQuestBot. Dev. @BotWanted",
+        "avatar": "https://files-warehouse.com/files/of_bots/34/3439e326d4fb870fbb18ae981cc52013.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Gauss Bot» telegram bot",
+        "short_name": "@gaussbot",
+        "description": "You can contact @gaussbot right away.",
+        "avatar": "https://files-warehouse.com/files/of_bots/3a/3ab267859a8a3f3e5f34624e60982081.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Quiz from Panda» telegram bot",
+        "short_name": "@pandaquizenbot",
+        "description": "Quiz from Panda: more than 2000 questions, hints and rankings. &#x1F43C;",
+        "avatar": "https://files-warehouse.com/files/of_bots/64/64cfca4942d3ee172c964d5d3fbfa32a.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«Inline Games 🎲» telegram bot",
+        "short_name": "@inlinegamesbot",
+        "description": "I&apos;m just a simple bot that uses inline keyboards to provide some entertainment.",
+        "avatar": "https://files-warehouse.com/files/of_bots/d3/d3c3495d236418d58cc8b8488a85d9e5.jpg",
+        "subscribers": "3"
+      },
+      {
+        "name": "«The Walking Dead Game bot» telegram bot",
+        "short_name": "@twdg_bot",
+        "description": "TWD Game bot.\nMade for Clementine.\nStarted from:\n&#x27A1;aug/1/2015&#x2B05;\n&#x27A1;10/5/1394&#x2B05;",
+        "avatar": "https://files-warehouse.com/files/of_bots/e7/e7b572a7bcdf4024c7a6de5ebc74b72b.jpg",
+        "subscribers": "3"
+      }
+    ]
+  ],
+  "success": true
+}

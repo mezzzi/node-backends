@@ -1,0 +1,57 @@
+.bg-light {
+    background-color: #EEEEEE!important;
+}
+
+#dic-form-group {
+    margin-bottom: 0;
+}
+
+#suggestion-container .list-group {
+    border: 1px solid rgb(66, 133, 244);
+    border-top: hidden;
+}
+
+
+#suggestion-container .list-group-item {
+    color: #2196F3;
+    padding: 0 0.8em;
+    border: hidden;
+}
+
+#suggestion-container li.list-group-item:hover {
+    background-color: #E0E0E0;
+    cursor: default;
+}
+
+.w-15 {
+    width: 15%;
+}
+
+.w-85 {
+    width: 85%;
+}
+
+.dropdown-menu {
+    min-width: 93%;
+    font-size: 1.25rem;
+}
+
+.dropdown-item:hover {
+    background-color: #E0E0E0;
+}
+
+h1#main-title {
+    color: #007bff;
+}
+
+input#search-box {
+    font-size: 1.4em;
+}
+
+form label {
+    font-size: 1.2em;
+}
+
+#msg-container, #auth-err-container {
+    margin: 0 10px !important;
+}
